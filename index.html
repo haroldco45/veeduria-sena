@@ -117,7 +117,7 @@
 
 <section id="carta" class="block">
   <h2 data-i18n="cartaTitle">Tu derecho de petición, listo para enviar</h2>
-  <p class="muted" data-i18n="cartaP">Cada ciudadano puede pedir información a las entidades y ellas deben responder en 15 días hábiles (10 días si son documentos). Llena tus datos, elige la entidad y copia la carta.</p>
+  <p class="muted" data-i18n="cartaP">Cada ciudadano puede pedir información a las entidades y ellas deben responder en 15 días hábiles (10 días si son documentos). Llena tus datos, elige la entidad y envíala directo a su correo oficial.</p>
   <div class="form">
     <input id="fNombre" data-i18n-ph="fNombre" placeholder="Nombre completo">
     <input id="fCedula" data-i18n-ph="fCedula" placeholder="Cédula">
@@ -126,9 +126,15 @@
     <select id="fEntidad"></select>
     <select id="fRegional"></select>
   </div>
+  <div class="dest" id="dest"></div>
   <textarea id="cartaTxt" rows="14" readonly></textarea>
   <div class="row">
-    <button id="btnCopy" class="btn" data-i18n="copy">Copiar carta</button>
+    <a id="btnGmail" class="btn btn-send" target="_blank" rel="noopener" data-i18n="sendGmail">Enviar desde Gmail</a>
+    <a id="btnMail" class="btn btn-send2" data-i18n="sendMail">Enviar desde mi correo</a>
+    <button id="btnCopy" class="btn btn-ghost" data-i18n="copy">Copiar carta</button>
+  </div>
+  <p class="muted small" data-i18n="sendTip">Al tocar Enviar se abre tu correo con la entidad, el asunto y la carta ya escritos. Solo revisa y presiona Enviar. Guarda el correo de respuesta con el número de radicado.</p>
+  <div class="row">
     <a id="btnPortal" class="btn btn-ghost" target="_blank" rel="noopener" data-i18n="portal">Ir al portal de la entidad</a>
     <a id="btnWa" class="btn btn-ghost" target="_blank" rel="noopener" data-i18n="share">Compartir app por WhatsApp</a>
   </div>

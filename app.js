@@ -23,9 +23,11 @@ const T = {
     secopPh:'Palabra clave: refrigerios, medicamentos, tiquetes...', secopBtn:'Consultar contratos', secopLink:'Ver la base completa del SECOP II en datos.gov.co',
     alertTitle:'Señales de alerta que puedes revisar tú mismo',
     cartaTitle:'Tu derecho de petición, listo para enviar',
-    cartaP:'Cada ciudadano puede pedir información a las entidades y ellas deben responder en 15 días hábiles (10 días si son documentos). Llena tus datos, elige la entidad y copia la carta.',
+    cartaP:'Cada ciudadano puede pedir información a las entidades y ellas deben responder en 15 días hábiles (10 días si son documentos). Llena tus datos, elige la entidad y envíala directo a su correo oficial.',
     fNombre:'Nombre completo', fCedula:'Cédula', fCiudad:'Ciudad o municipio', fCorreo:'Correo para la respuesta',
     copy:'Copiar carta', portal:'Ir al portal de la entidad', share:'Compartir app por WhatsApp',
+    sendGmail:'Enviar desde Gmail', sendMail:'Enviar desde mi correo', sendTip:'Al tocar Enviar se abre tu correo con la entidad, el asunto y la carta ya escritos. Solo revisa y presiona Enviar. Guarda el correo de respuesta con el número de radicado.',
+    destTo:'Se enviará a', missing:'Antes de enviar, llena tu nombre, cédula, ciudad y correo.',
     crearTitle:'Cómo crear una veeduría ciudadana (Ley 850 de 2003)', fuentesTitle:'Fuentes',
     footP:'App ciudadana independiente. No pertenece al SENA ni al Gobierno. La información es de medios y datos abiertos; verifícala siempre en la fuente.',
     updated:'Actualizado', robot:'Robot de noticias', ago:'hace', min:'min', h:'h', d:'días',
@@ -56,9 +58,11 @@ const T = {
     secopPh:'Keyword: refrigerios, medicamentos, tiquetes...', secopBtn:'Search contracts', secopLink:'See the full SECOP II dataset on datos.gov.co',
     alertTitle:'Red flags you can check yourself',
     cartaTitle:'Your right-of-petition letter, ready to send',
-    cartaP:'Any citizen can request information and agencies must answer within 15 business days (10 for documents). Fill in your details, pick the agency and copy the letter (it stays in Spanish, as required).',
+    cartaP:'Any citizen can request information and agencies must answer within 15 business days (10 for documents). Fill in your details, pick the agency and send it straight to its official email (the letter stays in Spanish, as required).',
     fNombre:'Full name', fCedula:'ID number', fCiudad:'City or town', fCorreo:'Email for the reply',
     copy:'Copy letter', portal:'Go to the agency portal', share:'Share app on WhatsApp',
+    sendGmail:'Send from Gmail', sendMail:'Send from my email', sendTip:'Tapping Send opens your email with the agency, subject and letter already filled in. Just review it and press Send. Keep the reply with the filing number.',
+    destTo:'It will be sent to', missing:'Before sending, fill in your name, ID, city and email.',
     crearTitle:'How to create a citizen oversight group (Law 850 of 2003)', fuentesTitle:'Sources',
     footP:'Independent citizen app. Not affiliated with SENA or the Government. Information comes from media and open data; always verify at the source.',
     updated:'Updated', robot:'News robot', ago:'', min:'min ago', h:'h ago', d:'days ago',
@@ -115,10 +119,10 @@ const HOWTO = {
   en:['Gather citizens or organizations interested in watching their SENA regional office.','Draft a founding record: names, IDs, purpose, territory and duration.','Register the group with the municipal Personería or the Chamber of Commerce.','Request information by petition and review SECOP II.','Visit, collect evidence and write a findings report.','Take the report to the oversight bodies and share it with the community.']
 };
 const ENTIDADES = [
-  {id:'sena', n:'SENA - Dirección General', url:'https://www.sena.edu.co', pide:'copia de los contratos, estudios previos, estudios de mercado, informes de supervisión, actas de recibo y comprobantes de pago de la regional {R} correspondientes a 2024, 2025 y 2026, en especial los de bienestar de aprendices, alimentación, medicamentos y tiquetes aéreos'},
-  {id:'proc', n:'Procuraduría General de la Nación', url:'https://www.procuraduria.gov.co', pide:'información sobre si existe indagación o investigación disciplinaria abierta por los contratos del SENA regional {R} denunciados públicamente el 25 de octubre de 2026, su número de radicado y su estado'},
-  {id:'contra', n:'Contraloría General de la República', url:'https://www.contraloria.gov.co', pide:'información sobre si existe actuación o auditoría fiscal sobre los contratos del SENA regional {R} denunciados públicamente el 25 de octubre de 2026, su número y su estado'},
-  {id:'fisc', n:'Fiscalía General de la Nación', url:'https://www.fiscalia.gov.co', pide:'información sobre si ya se recibió la denuncia anunciada por el Gobierno Nacional sobre contratos del SENA regional {R}, el número de noticia criminal asignado y el estado general del trámite, en lo que no esté sujeto a reserva'}
+  {id:'sena', n:'SENA - Dirección General', mail:'servicioalciudadano@sena.edu.co', url:'https://www.sena.edu.co', pide:'copia de los contratos, estudios previos, estudios de mercado, informes de supervisión, actas de recibo y comprobantes de pago de la regional {R} correspondientes a 2024, 2025 y 2026, en especial los de bienestar de aprendices, alimentación, medicamentos y tiquetes aéreos'},
+  {id:'proc', n:'Procuraduría General de la Nación', mail:'quejas@procuraduria.gov.co', url:'https://www.procuraduria.gov.co/PQRSDF/Pages/default.aspx', pide:'información sobre si existe indagación o investigación disciplinaria abierta por los contratos del SENA regional {R} denunciados públicamente el 25 de octubre de 2026, su número de radicado y su estado'},
+  {id:'contra', n:'Contraloría General de la República', mail:'cgr@contraloria.gov.co', url:'https://www.contraloria.gov.co', pide:'información sobre si existe actuación o auditoría fiscal sobre los contratos del SENA regional {R} denunciados públicamente el 25 de octubre de 2026, su número y su estado'},
+  {id:'fisc', n:'Fiscalía General de la Nación', mail:'ges.documentalpqrs@fiscalia.gov.co', url:'https://www.fiscalia.gov.co', pide:'información sobre si ya se recibió la denuncia anunciada por el Gobierno Nacional sobre contratos del SENA regional {R}, el número de noticia criminal asignado y el estado general del trámite, en lo que no esté sujeto a reserva'}
 ];
 const DEPS = ['Antioquia','Atlántico','Bogotá','Bolívar','Boyacá','Caldas','Caquetá','Casanare','Cauca','Cesar','Chocó','Córdoba','Cundinamarca','Guainía','Guaviare','Huila','La Guajira','Magdalena','Meta','Nariño','Norte de Santander','Putumayo','Quindío','Risaralda','San Andrés','Santander','Sucre','Tolima','Valle del Cauca','Vaupés','Vichada','Amazonas','Arauca'];
 const FUENTES = [
@@ -312,6 +316,14 @@ ${nombre}
 C.C. ${cc}
 ${correo}`;
   $('#btnPortal').href = e.url;
+  const asunto = `Derecho de petición de información — contratos SENA regional ${R}`;
+  const cuerpo = $('#cartaTxt').value;
+  $('#dest').innerHTML = `${t('destTo')}: <b>${esc(e.mail)}</b> · ${esc(e.n)}`;
+  $('#btnGmail').href = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(e.mail)}&su=${encodeURIComponent(asunto)}&body=${encodeURIComponent(cuerpo)}`;
+  $('#btnMail').href = `mailto:${e.mail}?subject=${encodeURIComponent(asunto)}&body=${encodeURIComponent(cuerpo)}`;
+  const listo = ['#fNombre','#fCedula','#fCiudad','#fCorreo'].every(s => $(s).value.trim());
+  ['#btnGmail','#btnMail'].forEach(s => $(s).classList.toggle('off', !listo));
+  $('#dest').title = listo ? '' : t('missing');
 }
 
 /* ---------- Arranque ---------- */
@@ -323,6 +335,7 @@ function bind(){
   $('#q').addEventListener('input', () => { const v = $('#q').value.trim().toLowerCase(); renderNews(v ? NEWS.filter(n => (n.titulo + ' ' + n.fuente).toLowerCase().includes(v)) : NEWS); });
   $('#btnSecop').onclick = querySecop;
   ['#fNombre','#fCedula','#fCiudad','#fCorreo','#fEntidad','#fRegional'].forEach(s => $(s).addEventListener('input', buildLetter));
+  ['#btnGmail','#btnMail'].forEach(s => $(s).addEventListener('click', ev => { if ($(s).classList.contains('off')) { ev.preventDefault(); toast(t('missing')); const v = ['#fNombre','#fCedula','#fCiudad','#fCorreo'].find(x => !$(x).value.trim()); if (v) $(v).focus(); } }));
   $('#btnCopy').onclick = async () => { try { await navigator.clipboard.writeText($('#cartaTxt').value); } catch (e) { $('#cartaTxt').select(); document.execCommand('copy'); } toast(t('copied')); };
   $('#btnWa').href = 'https://wa.me/?text=' + encodeURIComponent('Veeduría SENA: sigue el caso de los contratos y revisa los de tu regional https://veeduria-sena.netlify.app');
   document.addEventListener('visibilitychange', () => { if (!document.hidden) refreshAll(); });

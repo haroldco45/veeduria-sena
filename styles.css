@@ -109,4 +109,10 @@ table.secop{width:100%;border-collapse:collapse;font-size:13px;min-width:640px}
 .fuentes li{margin-bottom:6px;font-size:14px}
 
 .foot{text-align:center;padding:30px 16px 50px;color:var(--muted)}
-.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--green);color:#fff;padding:10px 18px;border-radius:999px;font-weight:700;z-index:50;animation:rise .3s}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--green);color:#fff;padding:12px 18px;border-radius:14px;font-weight:700;z-index:50;animation:rise .3s;width:max-content;max-width:calc(100% - 32px);text-align:center}
+.dest{margin:12px 0 0;padding:12px 14px;border-radius:12px;background:var(--card2);border-left:4px solid var(--green);font-size:14px}
+.dest b{color:var(--gold);word-break:break-all}
+.btn-send{background:var(--green);color:#fff;font-size:16px;padding:14px 22px;animation:glow 2.4s infinite}
+.btn-send2{background:var(--gold);color:#111;font-size:16px;padding:14px 22px}
+.btn.off{opacity:.5;animation:none}
+@keyframes glow{50%{box-shadow:0 0 0 6px rgba(57,181,74,.25)}}
