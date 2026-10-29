@@ -1,32 +1,11 @@
 {
-  "actualizado": "2026-10-29T18:23:55.486Z",
+  "actualizado": "2026-10-29T18:25:44.313Z",
   "noticias": [
-    {
-      "titulo": "Sena abrió 120 vacantes de empleo en España para médicos de urgencias y personal de enfermería con salarios de más de 12 millones de pesos: requisitos",
-      "fuente": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUlh2b0Nnckd3R1BZQ01iLVNfNVdFT1NrSE5BYUxRREh6b1gyM0p6M1VUU2w4TEVIWEFIek9NbGdWUGZUS2g5ZXJjTFRtMVV3a2w5MzVnRmZJcGRMbno2eXJESGpSVGhKMFQ0ejJhUEl4Q0NUeklwNkYyR2dtYW9OZnltR2EtNlVCX2RHTzZIell6TWpRVkw5M0QtVmc1OEktUlYzVncxNmFIcVd6UUNKdjZEWHRqcnVKRVBfV2poZjdmV1RLY1hxZjU5SGtZMXZWRDA1VEdtdWFPYzkwVDlLVFVnNkRobGhxZl8tNUZsem9UaW82TTVndVZGWkNQT3ZDVnhNemNvREpSQ1dfZlAzUzJORFBtLTBzSllzV2RHd9IBpAJBVV95cUxPMTZ5WFZ4Y2xkVS1tMEJSSUJvZDJ3VkZERGVzMDJldk9XekNOZ1RFMFFvaWJsdGZTX3REcV9MUXpDczU5VEFITzJHajVKYnlYMzZaQmZWQ3BBUVA2NEx3Z05DaWRKUjF1MVhrQ05GcE83Z3lMRHctTTBycFFUU1BKS0Mwb28tUEp2UEJGYVVSdWVuUFEtdWVRRVNOcXROQUl4U2poa24wNFhpd1EtcS1fTi1NY1ZnUXV3LXpsdnFTaXRtNjVKNkRmRmdBZHVhbzBBcVFMRWxQQUFEX2pCcWhHN0pNT3lQMnBySDZVUk1TSV91dkJkTk5CTVYycTZVdFVQNGZlSXBSS2hBb1lkdVhqTjhXY0xCOWJwaVRTOUhDeF9EWHBn?oc=5",
-      "fecha": "2026-10-28T23:42:48.000Z",
-      "imagen": ""
-    },
     {
       "titulo": "SENA busca colombianos para trabajar en España: ofrecen sueldos de hasta $12 millones y contratos a término indefinido",
       "fuente": "RED+ Noticias",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSG1YVmFRT2VnYnFPNGJpUXhrMHh2NXNiU0pTMktQaThSejNLMHNKVWxZOF9jYTBBeE03ZlE0SHM0Y2JKWkxMcEZLMWFHZDlvSzd1aUF4ZU9UeFdNMnFQdXhBeEUxTkNuT1oyd29NT1o0ZHVSdF9PSmlFNmJpelpJcmhvUUZ3alJoaVZGZHU1QUh6ekZrdXRSUklGV2hSQ2xmUEZjbVJ2ZURJdTFtdkEzYTFqSzE0MnA3QmJUNzljMHpVUmZocmRVQWpvZHBsZm8xUEppRHNmR2RtRkNEeGg1cnR5ZWZ6ZHVfN05DOHpBd29rT0Q1c3kxN2F3?oc=5",
       "fecha": "2026-10-28T17:40:38.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "SENA permite certificar habilidades laborales sin estudiar: así puede hacerlo",
-      "fuente": "Noticias RCN",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTFoMGJWOW12UFRZbjQ0MEwtVTZUMUEtWV9sUzM1ZG9Ld3I4cG9zT2tQbFc4d1VPSENZbXFtYzNaQ2lfbVhlTWVpVEduc1BfME5tcFZxSVItRkYzTWZtdDJaMEdldHpLMV9tZk40OW4wRXlWOFRFQUlwS01BU0YySFZNNGw3TzROM2xGMnhiNHRMdEZleFp4WkRKMWNlWTlWTGlfUjBmeUTSAagBQVVfeXFMTTh6VjdKUjNCcDdJb25NaXlCemxDMlAxSExvMmR6VEUtbXFZT0EwMFhsLTdXbWxsXzB1dkl4VGJsUk1BS1VuNTVXVDBfdHU3LXhpV2I5YXlzanVwenJVVzhiZV9SaE5yQ2dGc3VmNkZXczJzaVJTdGZjaTNwLXdVeElBZVNWbDc0b0E1ZUJnWVlBNU1MMXdxWWVyQmpJaDhRZEllN3pYMDR6?oc=5",
-      "fecha": "2026-10-28T13:08:54.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "Función Pública propuso que los directores regionales del Sena, el ICBF y el Invías se escojan por terna directa",
-      "fuente": "IFM Noticias",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjgwN2pWVlFCaEUySnk4a3Vna3JnbWh0WklRMWdXY1lZQTJJM2RFWkoyNzZta1ZKLWc4bjl6TENiUFVhLUlHbkdWMmFnejdUc2NyMjYxdWUta05sX2Uyak5vM0h3OFhrbWY1RWRsUUNOeGJPc2JSLXMxTTVCY2Vla0hobzJpcjZFTnFQNW1RYUtXa1NKeW1jaUxqSDBSNncyelZhVFRNVmRDMGcwN1ZlZDFhQkc?oc=5",
-      "fecha": "2026-10-27T22:01:34.000Z",
       "imagen": ""
     },
     {
@@ -37,25 +16,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Se acabó la fiesta con la plata del Sena: revisión contractual se extiende a todas las regionales",
-      "fuente": "El Frente",
-      "url": "https://elfrente.com.co/se-acabo-la-fiesta-con-la-plata-del-sena-presidente-denuncio-presuntas-irregularidades/",
-      "fecha": "2026-10-27T12:00:00-05:00",
-      "imagen": "https://elfrente.com.co/content/images/size/w1200/2026/10/3-33.jpg"
-    },
-    {
       "titulo": "Se acab&#243; la fiesta con la plata del Sena!’: Presidente denunci&#243; presuntas irregularidades",
       "fuente": "El Frente",
       "url": "https://elfrente.com.co/se-acabo-la-fiesta-con-la-plata-del-sena-presidente-denuncio-presuntas-irregularidades/",
       "fecha": "2026-10-27T13:06:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.gxLJPk70Z4YPHSw_cXjjcw&pid=News"
-    },
-    {
-      "titulo": "El SENA le pagará para montar su negocio: destina $ 20.000 millones para apoyar a colombianos que cumplan estos requisitos",
-      "fuente": "RED+ Noticias",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS294SUE1OHg4TldZWmtncEtPS3ZqLXVveG9TM1c0cTlGOFNKekZSNG5KSmlQYTQ3MnhaQTUzUmNfWl81SFhsRUpZSk8waDZXRzlLWnBCQ0p1b3BnOWlZeXZjQmdRcV9KZDFGN3NIRjA4bjNlTFhMQktMYmtMZFFSN2thVzJ2ZXQxcjBEcmY0RXplNzdtS0NsZDhOTkZVMzVLNGQ1ZnU2eG9mYkt3djRFeURIYnEzNkE0cE1GeC1CTUdwSDVkVkF1MmJzVkpLb0dPeU5neTh5NXR1S0RQSmJIWW81TjBiam9oT01sR2pRUmZBeWxEOEo1SG9aQzU5LTA?oc=5",
-      "fecha": "2026-10-26T23:47:37.000Z",
-      "imagen": ""
     },
     {
       "titulo": "¡Escándalo en el SENA Córdoba! Investigan contratos por miles de millones",
@@ -97,13 +62,6 @@
       "fuente": "Caracol Radio",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnJ3X25VVUNWeTJvOTB6d011RzliZ0NfdVZJUnVkSDhCUTVkeDMzY0NTanFzaFdJTTJpcnkyX0IxNkRaeGdnMm04V2kxbHNScHUzaEp5T0ZiZW9jTG5oN0g0ckVBTDdGSmtmejlZWS10czlWNlhBb1NjbXY4T1RBTm1Fc24tcUpWenNUWVRESGN3Ty1SclpIek9hbS1tRWo2UkpZRkFXaVlkZ1hrUFhZbzN5eVpzLTDSAcsBQVVfeXFMT1c3QUJiTHQtY0l2S3ViXzA4bHZDUTRxVVlGZm1SVlJuclVlLTlMVUpRVHd4V3piV213RktnMm10QUNCSnQ1TW5JUUdWbWpLeGtVczc0STk2MEFyU0VzWGVNM0lxb3NjV3dEbDRKOXNfWC1GNkhnUkVHQ2FEREpJTlJuLXcxUTVtNFhON3B0NUpsQjZXalRRSjMzYy1YOERVQllJbWIwM0wxREItUjFXcFI4WWJVc01hRVRvdGk4cUhsVkp4MUFYanpKQzQ?oc=5",
       "fecha": "2026-10-26T12:35:53.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "\"No voy a permitir que se sigan robando el Sena\"",
-      "fuente": "El Meridiano",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3JJd2FzMHp3X3J4NmQxS0tVNmJSM2dVS01nUFVMQW5qamQxT1IwLVZYSDY5R1FINHNmRWlDVUlndDYwWEt1c0UtTFlwb1BsMDYwclZRekJDQ010RFhmVXZaUkpEc1dpYWZYTUg2NGJOU0EzNXRHSU45UEY1VEtHNm1fU24wX1Y2al84T2F5cllXNm5wZnUzSg?oc=5",
-      "fecha": "2026-10-26T11:06:27.000Z",
       "imagen": ""
     },
     {
@@ -209,12 +167,12 @@
       "fuente": "El Heraldo",
       "url": "https://www.elheraldo.co/colombia/2026/10/25/presidente-de-la-espriella-denuncia-irregularidades-en-el-sena-cordoba-no-voy-a-permitir-que-se-sigan-robando-a-la-institucion/",
       "fecha": "2026-10-25T15:00:00-05:00",
-      "imagen": ""
+      "imagen": "https://www.elheraldo.co/resizer/v2/OWDHWF7T4FGJRF2PHFOJDLLG6E.jpg?smart=true&amp;auth=dfadea9df167c4c16ea7e8f679377dd20d70651398b0d43dc81500eca1f91caa&amp;width=1200&amp;height=675"
     },
     {
       "titulo": "De la Espriella anuncia revisión de toda la contratación del Sena a nivel nacional",
       "fuente": "El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamVxZ0FyTVBTT1dwYXdKeHFhc3VlNFBPUzZER05NRmUxQnpCT3VUeEtHU05kN2J1engyWWVvaWVVakVQeWduc0JpSmlJeUlqdWFIanpncnZiRmtUb25BU1U4UEo1Y0gxSXJNc1BzRkVTNWgxb3RRZ2pEWDRnVVhydHhIbldtbkhBREVVODhpSHZmTXd1aTNfa0Z0b3BmaGJDNlI0czk4Y3pBWTVGM2tBVkIzWEw4Y0k20gHMAUFVX3lxTE15cHBCTGdpRWhlVUswalhzdnlqZDBHVFNfb3ZKT2FGQ1NLMzJydU1paWZDZjN0c3Z0d3Z6TjNkQ2lfM1NBd0gzLXNTeWZxbDRxZ2dEMVQ0WEctMXNpSUxaNVlCa1dwYXR2TUVKM3RuUTlqa3VQOHZzYjhEcDQ2T0FWT2V2WVFPUk5vcU9ad0xiYk4wWGdHeVFLa2d5UGcxbzI1aVlWUVVVVTZxRE1uSmlMcTh6bzZDZGJaSWtET21WUjNpM3J6ZzZTcnBHNw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeXBwQkxnaUVoZVVLMGpYc3Z5amQwR1RTX292Sk9hRkNTSzMycnVNaWlmQ2YzdHN2dHd2ek4zZENpXzNTQXdIMy1zU3lmcWw0cWdnRDFUNFhHLTFzaUlMWjVZQmtXcGF0dk1FSjN0blE5amt1UDh2c2I4RHA0Nk9BVk9ldllRT1JOb3FPWndMYmJOMFhnR3lRS2tneVBnMW8yNWlZVlFVVVU2cURNbkppTHE4em82Q2RiWklrRE9tVlIzaTNyemc2U3JwRzfSAcwBQVVfeXFMTXlwcEJMZ2lFaGVVSzBqWHN2eWpkMEdUU19vdkpPYUZDU0szMnJ1TWlpZkNmM3RzdnR3dnpOM2RDaV8zU0F3SDMtc1N5ZnFsNHFnZ0QxVDRYRy0xc2lJTFo1WUJrV3BhdHZNRUozdG5ROWprdVA4dnNiOERwNDZPQVZPZXZZUU9STm9xT1p3TGJiTjBYZ0d5UUtrZ3lQZzFvMjVpWVZRVVVVNnFETW5KaUxxOHpvNkNkYlpJa0RPbVZSM2kzcnpnNlNycEc3?oc=5",
       "fecha": "2026-10-25T19:49:00.000Z",
       "imagen": ""
     },
@@ -254,24 +212,10 @@
       "imagen": ""
     },
     {
-      "titulo": "Cursos de inglés gratis del SENA: estos son los requisitos y pasos para acceder a la formación virtual en Colombia",
-      "fuente": "Portafolio.co",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTmJCT09KUFpzS0JpNk1vMnlQRzdpQ2ZPX0JzTDFVMDlHWXBZYTdDblZpYnZoaHhIT3JVdHZqUFBiYk1fbW5vNkRSXzJYaTBHNEdPQy1BR3pGZkpWUnRtRG8zNFVpOHBlU2JKejZobF9oYW5CNFVXWk5RZURoS2lZQUlsdzUwaEktX0Y0WFZoVVdQbGs2Q3dINEJ2RGtOZ3I3R1ZOQmFGSTJ0bUpmdXhsU0pXOXNmUElGWndJejM4LVRkOG1qYTY2anVTUUNDSW4xdzZkeDdrdE5CTTRKa1N4MnR3ODRtbWVyTEdwR2J30gHzAUFVX3lxTE50Z3VpRmI3bDM0bFQ4STZLNEx3dndMVWhvTFYwMllrOEhnSUxSR0huUGsxMTZBQ00zcnl5dXBZSTQ2U1owZVNGM3pibkVOeWxuVHFZc2JqTTBVNGZ4V21oZ25tbGJYMVVQeG8tNFNXU3FBcWVCM3RqUVhaNnBNM1dhOW1IdEFLREpOYnNZRVJSTWhfVng3bFRucGdRblpsc216bEVlbDVpQ2dvWTc4YkdHSHJaVldqeFRweTM3N2Z1WFBRSW8xSU1sVzVUS3VtQWQ3a2dKcGNkdU5LYUFVVmJlWkRaQ0lBak1aYXNEVkhFZ1hrbw?oc=5",
-      "fecha": "2026-10-25T18:32:44.000Z",
-      "imagen": ""
-    },
-    {
       "titulo": "Contratos del Sena en Córdoba por $1.698 millones: bienestar y medicamentos bajo la lupa",
       "fuente": "Portafolio",
       "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-denuncia-presuntas-irregularidades-en-contratos-del-sena-en-cordoba-por-1-698-millones-505085",
       "fecha": "2026-10-25T13:00:00-05:00",
-      "imagen": ""
-    },
-    {
-      "titulo": "Estalla escándalo en Sena con cifras alarmantes y advierten que \"es apenas la punta del iceberg”",
-      "fuente": "Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmVNQldpV2pFMmZLbVgxZjJmWkhlMHNEUmpDM2NEYzBSUTVGU2RxQl9aZlcycklXdTVYbldDZllaVjdsWDR4RmdPZ19sYWJVYlpkSDNlbFpuMEZfNnM2azZheWpFbUc1Vkt3NlJWX2ZnZ2JWSkFVX1lpVmtJU0l4Uzh2eXp6MW9iaW02ay0xME1hZ3RrQTUzNWtTQzBMamtXeGk3YVltMVpfM3FPT0HSAbMBQVVfeXFMTkVqZldIZjQyVGllOTZIM3V0bUZjTzN4QUhhYUY5MWo0WWtZQ2ktTXMzYkw4N25Qbm9vd3Ezem5TZ044Vmtuamtfc016VkhoZEZobG5YWkY4S3lqcGlCaTFTZlg1QlVzaEowNDVsLUpJRWwtSEtzRnExNjNybG13LXhvVmdiNHZIaEg5V1dRZEZZMGlmV3hpZ2VvYmJnQkdFdkRyUkxLNGp2OGx2dl9udTRIQjQ?oc=5",
-      "fecha": "2026-10-25T17:40:17.000Z",
       "imagen": ""
     },
     {
@@ -401,13 +345,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.smOVvf-rHxKa7oSh-13tNw&pid=News"
     },
     {
-      "titulo": "Estalla esc&#225;ndalo en Sena con cifras alarmantes y advierten que \"es apenas la punta del iceberg”",
-      "fuente": "Pulzo",
-      "url": "https://www.pulzo.com/nacion/escandalo-sena-con-cifras-alarmantes-por-corrupcion-contratos-colombia-PP5340034",
-      "fecha": "2026-10-25T05:40:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.4UkcS_lC7Nd0gFWd0ieorA&pid=News"
-    },
-    {
       "titulo": "Destapan presunta red de corrupci&#243;n en contratos del Sena en C&#243;rdoba",
       "fuente": "El Nuevo Siglo",
       "url": "https://www.elnuevosiglo.com.co/nacion/destapan-presunta-red-de-corrupcion-en-contratos-del-sena-en-cordoba",
@@ -415,10 +352,66 @@
       "imagen": "http://www.bing.com/th?id=ONUT.C223izS5psGjAJSNA9iVBg&pid=News"
     },
     {
+      "titulo": "Ricardo Torres, director del Sena, advirtió sobre contratación y proveedores en Córdoba: “Se paga sin revisar”",
+      "fuente": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUkRJUDRGRERUUVNYTGphZHcxZmRQZjJ0RmZUemRoODA2a19VTnZDMlpjcGtsZVFnYXZPVEs2blJqckM0ZVpIMzVjOWYtc0F5SVNqblI1RF8zbG9fODZnbXJUcVhUMlhsMEprdWVCSFp6M29Cb3VzNTlmVWFKUkdFaEhJWC1JSllid3dQSUNSZ2VxSkhYOW94cU9zUDZXMzhWRUdzM3pTd3hrNjlfYVlhdExIc3NCVGxoZWdEMzdkZmxKVUJZbHJaLVRMWlhaTWRtaUJtQjhoZ1EwMUdsTmtyZ3pNQ1R1N09kWnNQZGZSRVlsZ9IB9wFBVV95cUxOcWptTFBsRHlBTENMUTlvQWpIUkpWNS02T2JhazBEMVJiOENxSmM3UmtXVy1PTUZQRzFmbGRVeS1wem04UHM1X0FtQld1a2ZidHoyN2RNRDhTXzRyUTBXSG9LaTJDcXRVZ2dRbGIwTzNibHUxdFpoZU1veEtnOWZnWXVkdk93V2dPSkRPWlk4YVdjak1SNzhHajF0dC1hUnlZd1RRLW5ReHhUQ1B3TDQteW1RanltUTNxc2l2bEhGck92WGxqMVdMelBsdjM4NEx0emFlTk9aMnRmWEstM0NjRGhTeTI1cVJGWW44dGM2UlBHaUZuenpn?oc=5",
+      "fecha": "2026-10-24T02:25:59.000Z",
+      "imagen": ""
+    },
+    {
       "titulo": "Director del SENA halla graves fallas en la contratación de la Regional Córdoba y pide acompañamiento de la Contraloría",
       "fuente": "LA RAZÓN.CO",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYTR5Vk5hYkxJQ2p0Ym1PeER3X1hIMHJrTm1mNmM2Q0pzRTlsNHIyRjBacFpidHlScFEyTm8zaGNXanlJcWFPUjNQbzNnV3hHLXJabXduYWFXbEZLcTdwRy0zVmllNmVFdFJURDhQU3o5OHhxXzBqTlloQWlYaFFYb2xrTFlsMmphTUhQOWVaNEl0bjQ4M3FjeDhSN2hURXpaU183U1lDMkhsSnJNSWEzVUpvRkRVV3R0SG5pYjQ5WTAyWFhnM1J2UGRqb0FQYmhvcVk4SXhn?oc=5",
       "fecha": "2026-10-24T01:11:48.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "SENA Sucre ofrecerá 80 vacantes en Expo Empleo este 22 de octubre",
+      "fuente": "SENA",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUp1M1Z1YlBxOXZuZWF1U01rMFV3TVMtUzlaXzc0Ql9XZHl1SFhiMnFQZ0Z5ZlljcmtZMUd6cUpKTFJjN3JsYi13b0dnd1llWnVyMl95UFpHWHhSWGNoQ1JaLW5kZjY0ZnNmaVNMMWNxM214RVFwenEtMXRFV0E3aEdnS19HWGxUbzBlOU9ieWFsRVN6ZXRFZk53T0pMSk05VEtqVWEtaXpVSUh6OV9Zb1J2OA?oc=5",
+      "fecha": "2026-10-18T07:00:00.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "Director nacional del SENA pide investigar presuntos cobros a contratistas en Boyac&#225;",
+      "fuente": "Caracol Radio",
+      "url": "https://caracol.com.co/2026/10/09/director-nacional-del-sena-pide-investigar-presuntos-cobros-a-contratistas-en-boyaca/",
+      "fecha": "2026-10-09T11:43:00.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sena identific&#243; suplantaci&#243;n digital durante licitaci&#243;n de millonario contrato de vigilancia y anunci&#243; medidas de control",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/03/25/sena-identifico-suplantacion-digital-durante-licitacion-de-millonario-contrato-de-vigilancia-y-anuncio-medidas-de-control/",
+      "fecha": "2026-03-24T17:26:00.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sena responde por licitaci&#243;n en contratos de seguridad en Sucre, tras denuncia por presuntos ‘pliegos sastre’",
+      "fuente": "LA  F.m.",
+      "url": "https://www.lafm.com.co/sociedad/sena-responde-licitacion-contratos-seguridad-sucre-denuncia-presuntos-pliegos-sastre-394347",
+      "fecha": "2026-03-24T08:02:00.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Sena apart&#243; a coordinador de licitaci&#243;n por posible corrupci&#243;n: los contratos sumar&#237;an casi $200 mil millones",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/03/19/el-sena-aparto-a-coordinador-de-licitacion-en-sucre-y-pidio-supervision-de-organismos-de-control-por-contratos-de-vigilancia-bajo-sospecha/",
+      "fecha": "2026-03-19T10:59:00.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "Sena y Fiduagraria, bajo la lupa de la Contralor&#237;a por millonarias irregularidades: detectan posibles delitos fiscales y penales",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/colombia/2025/07/22/sena-y-fiduagraria-bajo-la-lupa-de-la-contraloria-por-millonarias-irregularidades-detectan-posibles-delitos-fiscales-y-penales/",
+      "fecha": "2025-07-22T02:44:00.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "Auditor&#237;a financiera de la Contralor&#237;a al Sena dej&#243; 11 hallazgos fiscales por $2.308 millones",
+      "fuente": "El heraldo",
+      "url": "https://www.elheraldo.co/colombia/2025/07/21/auditoria-financiera-de-la-contraloria-al-sena-dejo-11-hallazgos-fiscales-por-2308-millones/",
+      "fecha": "2025-07-21T15:18:00.000Z",
       "imagen": ""
     }
   ]
