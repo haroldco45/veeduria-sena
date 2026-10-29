@@ -39,9 +39,11 @@ let fresh = [];
 for (const q of QUERIES) {
   for (const src of [bing, google]) { try { fresh.push(...await src(q)); } catch (e) { console.log('fallo', q, e.message); } }
 }
-fresh = fresh.filter(n => n.titulo && n.url && /sena/i.test(n.titulo) && !isNaN(new Date(n.fecha)));
+const CASO = /contrat|corrup|irregular|auditor|fiscal|procurad|contralor|c[oó]rdoba|sucre|hallazg|espriella|denunc|investig|desv[ií]o|refrigerio|medicament|veedur/i;
+const caso = n => /\bsena\b/i.test(n.titulo) && CASO.test(n.titulo);
+fresh = fresh.filter(n => n.titulo && n.url && caso(n) && !isNaN(new Date(n.fecha)));
 const map = new Map();
-for (const n of [...fresh, ...old]) {
+for (const n of [...fresh, ...old.filter(caso)]) {
   const k = key(n.titulo); const prev = map.get(k);
   if (!prev) map.set(k, n); else if (!prev.imagen && n.imagen) prev.imagen = n.imagen;
 }
