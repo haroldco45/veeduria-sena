@@ -3,7 +3,7 @@ import fs from 'node:fs';
 const FILE = 'data/noticias.json';
 const QUERIES = ['SENA contratos irregularidades', 'SENA Córdoba corrupción', 'SENA auditoría regionales', 'SENA Fiscalía contratos', 'SENA Sucre contratos'];
 const UA = {'User-Agent': 'Mozilla/5.0 (VeeduriaSENA robot)'};
-const strip = s => (s || '').replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").trim();
+const strip = s => (s || '').replace(/<!\[CDATA\[|\]\]>/g, '').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&#(\d+);/g, (_, d) => String.fromCharCode(+d)).trim();
 const tag = (x, t) => { const m = x.match(new RegExp(`<${t}[^>]*>([\\s\\S]*?)</${t}>`)); return m ? strip(m[1]) : ''; };
 
 async function rss(url){
@@ -32,7 +32,7 @@ async function ogImage(url){
     return m && /^https:/.test(m[1]) ? m[1] : '';
   } catch { return ''; }
 }
-const key = t => t.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]/g, '').slice(0, 60);
+const key = t => t.replace(/&#(\d+);/g, (_, d) => String.fromCharCode(+d)).replace(/[‘’'"¡!]/g, '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]/g, '').slice(0, 60);
 
 const old = fs.existsSync(FILE) ? JSON.parse(fs.readFileSync(FILE, 'utf8')).noticias || [] : [];
 let fresh = [];
@@ -40,10 +40,12 @@ for (const q of QUERIES) {
   for (const src of [bing, google]) { try { fresh.push(...await src(q)); } catch (e) { console.log('fallo', q, e.message); } }
 }
 const CASO = /contrat|corrup|irregular|auditor|fiscal|procurad|contralor|c[oó]rdoba|sucre|hallazg|espriella|denunc|investig|desv[ií]o|refrigerio|medicament|veedur/i;
-const caso = n => /\bsena\b/i.test(n.titulo) && CASO.test(n.titulo);
+const NO = /empleo|vacante|trabajar|convocatoria|curso|inscripci|oferta laboral|t[eé]rmino indefinido|sueldo|salario/i;
+const caso = n => /\bsena\b/i.test(n.titulo) && CASO.test(n.titulo) && !NO.test(n.titulo);
 fresh = fresh.filter(n => n.titulo && n.url && caso(n) && !isNaN(new Date(n.fecha)));
 const map = new Map();
 for (const n of [...fresh, ...old.filter(caso)]) {
+  n.titulo = strip(n.titulo);
   const k = key(n.titulo); const prev = map.get(k);
   if (!prev) map.set(k, n); else if (!prev.imagen && n.imagen) prev.imagen = n.imagen;
 }
