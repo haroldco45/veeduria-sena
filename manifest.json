@@ -1,0 +1,11 @@
+{
+  "name": "Veeduría SENA · Vibras Positivas HM",
+  "short_name": "Veeduría SENA",
+  "description": "Veeduría ciudadana a los contratos del SENA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070d1f",
+  "theme_color": "#0b1530",
+  "lang": "es",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

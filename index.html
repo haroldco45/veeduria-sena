@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Veeduría SENA · Vibras Positivas HM</title>
+<meta name="description" content="Veeduría ciudadana a los contratos del SENA: hallazgos verificados, noticias que se actualizan solas, contratos reales del SECOP II y cartas de derecho de petición.">
+<meta name="theme-color" content="#0b1530">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<meta property="og:title" content="Veeduría SENA — Ojo a la plata de los aprendices">
+<meta property="og:description" content="Sigue el caso de los contratos del SENA, consulta los contratos de tu regional y haz tu propia veeduría.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="brand">
+    <span class="brand-mark">VS</span>
+    <div>
+      <strong>Veeduría SENA</strong>
+      <small data-i18n="brandSub">por Vibras Positivas HM</small>
+    </div>
+  </div>
+  <div class="top-actions">
+    <button id="btnLang" class="chip" aria-label="Idioma">EN</button>
+    <button id="btnRefresh" class="chip chip-hot" data-i18n="refresh">Actualizar</button>
+  </div>
+</header>
+
+<div class="ticker" aria-hidden="true"><div class="ticker-track" id="ticker"></div></div>
+
+<section class="hero" id="hero">
+  <div class="hero-bg" id="heroBg"></div>
+  <div class="hero-shade"></div>
+  <div class="hero-in">
+    <p class="kicker" data-i18n="heroKicker">Veeduría ciudadana · Contratos del SENA</p>
+    <h1 data-i18n="heroTitle">La plata del SENA es de los aprendices</h1>
+    <p class="hero-p" data-i18n="heroP">El 25 de octubre de 2026 el Gobierno denunció presuntas irregularidades en contratos del SENA regional Córdoba y anunció revisión en todas las regionales del país. Aquí le hacemos seguimiento, con datos y fuentes.</p>
+    <div class="counters">
+      <div class="counter"><b data-count="1698">0</b><span data-i18n="c1">millones en dos contratos cuestionados (Córdoba)</span></div>
+      <div class="counter"><b data-count="933">0</b><span data-i18n="c2">millones · contrato de bienestar</span></div>
+      <div class="counter"><b data-count="765">0</b><span data-i18n="c3">millones · contrato de medicamentos</span></div>
+      <div class="counter"><b id="dayCount">0</b><span data-i18n="c4">días desde la denuncia</span></div>
+    </div>
+    <div class="hero-cta">
+      <a href="#hoy" class="btn" data-i18n="ctaHoy">Ver lo de hoy</a>
+      <a href="#veeduria" class="btn btn-ghost" data-i18n="ctaVeedor">Hacer veeduría</a>
+    </div>
+  </div>
+</section>
+
+<main>
+
+<section id="hoy" class="block">
+  <div class="block-head">
+    <h2 data-i18n="hoyTitle">Hoy</h2>
+    <span class="live" id="hoyStamp"></span>
+  </div>
+  <p class="muted" id="hoyResumen"></p>
+  <div class="cards" id="hoyCards"></div>
+</section>
+
+<section class="block alerta">
+  <h2 data-i18n="ojoTitle">Ojo antes de compartir</h2>
+  <p data-i18n="ojoP1">Muchas piezas que circulan en redes sobre este caso están marcadas como contenido hecho con IA. En los medios revisados no aparece la frase "todo el que comió de esos contratos va a ir preso". Lo que sí dijo el presidente, según la prensa, es que no habrá intocables y que el informe irá a la Fiscalía.</p>
+  <p data-i18n="ojoP2">Una denuncia del Gobierno no es una condena. Hasta que Fiscalía, Procuraduría o Contraloría decidan, se habla de presuntas irregularidades. Un buen veedor verifica antes de señalar.</p>
+</section>
+
+<section class="block">
+  <h2 data-i18n="semTitle">Semáforo del caso</h2>
+  <div class="steps" id="steps"></div>
+</section>
+
+<section class="block">
+  <h2 data-i18n="halTitle">Lo que dice el informe preliminar</h2>
+  <div class="grid" id="hallazgos"></div>
+</section>
+
+<section class="block">
+  <h2 data-i18n="tlTitle">Línea de tiempo</h2>
+  <ol class="timeline" id="timeline"></ol>
+</section>
+
+<section id="noticias" class="block">
+  <div class="block-head">
+    <h2 data-i18n="newsTitle">Noticias</h2>
+    <span class="muted small" id="robotStamp"></span>
+  </div>
+  <div class="search">
+    <input id="q" type="search" autocomplete="off" data-i18n-ph="searchPh" placeholder="Buscar: Córdoba, Sucre, Fiscalía, tu regional...">
+    <button id="btnSearch" class="btn" data-i18n="searchBtn">Buscar en vivo</button>
+  </div>
+  <p class="muted small" id="searchState"></p>
+  <div class="cards" id="newsCards"></div>
+</section>
+
+<section id="veeduria" class="block veeduria">
+  <h2 data-i18n="vTitle">Haz tu veeduría: contratos reales de tu regional</h2>
+  <p class="muted" data-i18n="vP">Consulta en vivo los contratos del SENA publicados en el SECOP II (datos abiertos del Estado). Elige tu departamento y mira quién contrata, por cuánto y para qué.</p>
+  <div class="secop-form">
+    <select id="dep"></select>
+    <input id="secopQ" type="search" data-i18n-ph="secopPh" placeholder="Palabra clave: refrigerios, medicamentos, tiquetes...">
+    <button id="btnSecop" class="btn" data-i18n="secopBtn">Consultar contratos</button>
+  </div>
+  <p class="muted small" id="secopState"></p>
+  <div class="secop-sum" id="secopSum"></div>
+  <div class="table-wrap"><table class="secop" id="secopTable"></table></div>
+  <p class="small"><a target="_blank" rel="noopener" href="https://www.datos.gov.co/Gastos-Gubernamentales/SECOP-II-Contratos-Electr-nicos/jbjy-vk9h" data-i18n="secopLink">Ver la base completa del SECOP II en datos.gov.co</a></p>
+
+  <h3 data-i18n="alertTitle">Señales de alerta que puedes revisar tú mismo</h3>
+  <div class="grid" id="alertas"></div>
+</section>
+
+<section id="carta" class="block">
+  <h2 data-i18n="cartaTitle">Tu derecho de petición, listo para enviar</h2>
+  <p class="muted" data-i18n="cartaP">Cada ciudadano puede pedir información a las entidades y ellas deben responder en 15 días hábiles (10 días si son documentos). Llena tus datos, elige la entidad y copia la carta.</p>
+  <div class="form">
+    <input id="fNombre" data-i18n-ph="fNombre" placeholder="Nombre completo">
+    <input id="fCedula" data-i18n-ph="fCedula" placeholder="Cédula">
+    <input id="fCiudad" data-i18n-ph="fCiudad" placeholder="Ciudad o municipio">
+    <input id="fCorreo" type="email" data-i18n-ph="fCorreo" placeholder="Correo para la respuesta">
+    <select id="fEntidad"></select>
+    <select id="fRegional"></select>
+  </div>
+  <textarea id="cartaTxt" rows="14" readonly></textarea>
+  <div class="row">
+    <button id="btnCopy" class="btn" data-i18n="copy">Copiar carta</button>
+    <a id="btnPortal" class="btn btn-ghost" target="_blank" rel="noopener" data-i18n="portal">Ir al portal de la entidad</a>
+    <a id="btnWa" class="btn btn-ghost" target="_blank" rel="noopener" data-i18n="share">Compartir app por WhatsApp</a>
+  </div>
+</section>
+
+<section class="block">
+  <h2 data-i18n="crearTitle">Cómo crear una veeduría ciudadana (Ley 850 de 2003)</h2>
+  <ol class="howto" id="howto"></ol>
+</section>
+
+<section class="block">
+  <h2 data-i18n="fuentesTitle">Fuentes</h2>
+  <ul class="fuentes" id="fuentes"></ul>
+</section>
+
+</main>
+
+<footer class="foot">
+  <p><strong>Vibras Positivas HM</strong> · Caucasia, Antioquia · 311 770 0431</p>
+  <p class="small" data-i18n="footP">App ciudadana independiente. No pertenece al SENA ni al Gobierno. La información es de medios y datos abiertos; verifícala siempre en la fuente.</p>
+  <p class="small">veeduria-sena.netlify.app</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
