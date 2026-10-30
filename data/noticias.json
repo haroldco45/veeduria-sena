@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T22:55:20.283Z",
+  "actualizado": "2026-10-30T02:29:01.170Z",
   "noticias": [
     {
       "titulo": "Se acabó la fiesta con la plata del Sena!’: Presidente denunció presuntas irregularidades",
@@ -59,10 +59,17 @@
     },
     {
       "titulo": "Irregularidades Sena Córdoba: De La Espriella anuncia auditorías",
-      "fuente": "estrelladigital.com.co",
-      "url": "https://estrelladigital.com.co/politica/espriella-sena-cordoba-irregularidades/",
-      "fecha": "2026-10-26T00:52:00.000Z",
+      "fuente": "Estrella Digital Colombia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY3VjQzFlaVFaS2VmMkw1MDV2OUI2SkgxR1FiVjhlV0U3YW5TaHlmekZrdmtfSVBqMldNeTJyeE5WVk1GTGpsc0VCTTNhT2Y4d040eE9NdHJYRE5BWC1TRzRoa2dNaHh5eTdPVFMxX2hsSzVSZlY2QlZ5SU9TWnhrQU8zR0hrQQ?oc=5",
+      "fecha": "2026-10-26T07:53:18.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.Ec-qm-ksNYp19AHSvE9YoQ&pid=News"
+    },
+    {
+      "titulo": "“Aquí no habrá intocables”: el presidente De La Espriella revela presuntas irregularidades por $1.698 millones en contratos del SENA en Córdoba",
+      "fuente": "La Linterna Azul",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRV8wendaWUliaUd1VkVhdmQyNFdLUWRjN1U2ZTV6RXJ3MURtNTZ3d3FzZDBHM2ZRbFlnSTBndXFaYkJBNlNqNVNlTHhSb2ZYcVE1WXlhRGtCTTc1NDlneEIwaHY0Zll5ZllWbHpZZVRUb1BGWDVyaGhvUmFkS3V3OE9nWkdmYUV0Q2VEU29vRWJfWlBkM3JjZGlvVDdGTHROZC1LSDZpZlhuX05ySW5uekY3RUFQX2NCeUFMY0NwLWRlc0FENUhUNnhSSjVoRG1FNXVPcmtzU3lMZ2hvVllDczFHbVNxNDNmNmE0b0x6SEwwdXllSEMtX0xvMDNMdU15bFpDM1RpQ0padTNZN0NDWEVkS29QS3N4?oc=5",
+      "fecha": "2026-10-26T05:20:26.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.y016N_1QxpV1CUoftJMGlg&pid=News"
     },
     {
       "titulo": "Presidente De La Espriella denunció presuntas irregularidades en contratos del Sena en Córdoba y anunció auditorías",
@@ -77,13 +84,6 @@
       "url": "https://www.semana.com/nacion/articulo/abelardo-de-la-espriella-anuncio-que-llevara-hallazgos-del-sena-a-la-fiscalia-esto-es-una-verguenza/202621/",
       "fecha": "2026-10-25T17:30:00-05:00",
       "imagen": "https://www.semana.com/resizer/v2/YD7L5UEPPZDY5JFXUDS26YU6PM.png?auth=66c74a59bcc360729d3797ec47e795257b4d561b6a92998017cea665b6f9fb03&amp;smart=true&amp;quality=75&amp;width=1280&amp;height=720"
-    },
-    {
-      "titulo": "\"Aquí no habrá intocables\": el presidente De La Espriella revela presuntas irregularidades por $1.698 millones en contratos del SENA en Córdoba",
-      "fuente": "IFM Noticias",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1l0cmw3LVljdW9saXlXOUxYYVdoV1BEYjhsUm5QNzhXQzRqdWhfVEp6NHQtbnlZNlJ1cDh0NXpEQjByNUdtRFlkRmZjaHpGMGFJZHIyUTNETk9rOWViNGpWdk1oalVlWGZCcnJTT3VocG1KMm1vQkFBd3VGU21EbktycG4yT3pjcTJ2SXlIZ19MT3V2TXotbllFTDlpWkE5aEpKSy1BZ21SV1MzWWMwbTREZTE?oc=5",
-      "fecha": "2026-10-25T22:22:13.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.y016N_1QxpV1CUoftJMGlg&pid=News"
     },
     {
       "titulo": "De Córdoba a todo el país: revisarán la contratación del SENA",
@@ -268,6 +268,20 @@
       "imagen": ""
     },
     {
+      "titulo": "Gloria María Arsanios Troncoso, la nueva directora del Sena en Sucre",
+      "fuente": "El heraldo",
+      "url": "https://www.elheraldo.co/sucre/2026/06/24/gloria-maria-arsanios-troncoso-la-nueva-directora-del-sena-en-sucre/",
+      "fecha": "2026-06-24T09:22:00.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "Procuraduría inhabilitó a exedil de Bucaramanga por contratos con el Sena tras ser elegido",
+      "fuente": "BLU Radio",
+      "url": "https://www.bluradio.com/regiones/santanderes/procuraduria-inhabilito-a-exedil-de-bucaramanga-por-contratos-con-el-sena-tras-ser-elegido-rg10",
+      "fecha": "2026-04-08T06:39:00.000Z",
+      "imagen": ""
+    },
+    {
       "titulo": "Sena identificó suplantación digital durante licitación de millonario contrato de vigilancia y anunció medidas de control",
       "fuente": "Infobae",
       "url": "https://www.infobae.com/colombia/2026/03/25/sena-identifico-suplantacion-digital-durante-licitacion-de-millonario-contrato-de-vigilancia-y-anuncio-medidas-de-control/",
@@ -289,6 +303,13 @@
       "imagen": ""
     },
     {
+      "titulo": "El Sena, la entidad que más contratos firmó previo a la Ley de Garantías: suman $1,7 billones",
+      "fuente": "Yahoo Noticias en Español",
+      "url": "https://es-us.noticias.yahoo.com/sena-entidad-contratos-firm%C3%B3-previo-162734474.html",
+      "fecha": "2026-02-11T08:27:00.000Z",
+      "imagen": ""
+    },
+    {
       "titulo": "Sena y Fiduagraria, bajo la lupa de la Contraloría por millonarias irregularidades: detectan posibles delitos fiscales y penales",
       "fuente": "Infobae",
       "url": "https://www.infobae.com/colombia/2025/07/22/sena-y-fiduagraria-bajo-la-lupa-de-la-contraloria-por-millonarias-irregularidades-detectan-posibles-delitos-fiscales-y-penales/",
@@ -300,6 +321,20 @@
       "fuente": "El heraldo",
       "url": "https://www.elheraldo.co/colombia/2025/07/21/auditoria-financiera-de-la-contraloria-al-sena-dejo-11-hallazgos-fiscales-por-2308-millones/",
       "fecha": "2025-07-21T15:18:00.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "Aprendices del SENA: cambios en el contrato tras reforma laboral",
+      "fuente": "El Espectador",
+      "url": "https://www.elespectador.com/educacion/aprendices-del-sena-cambios-en-el-contrato-tras-reforma-laboral/",
+      "fecha": "2025-06-18T16:35:00.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fiscalía archivó investigación contra exdirector del SENA Alfonso Prada",
+      "fuente": "Caracol Radio",
+      "url": "https://caracol.com.co/radio/2022/02/15/judicial/1644917659_011569.html",
+      "fecha": "2022-02-15T05:59:00.000Z",
       "imagen": ""
     }
   ]
