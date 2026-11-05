@@ -1,11 +1,11 @@
 {
-  "actualizado": "2026-11-04T20:53:43.768Z",
+  "actualizado": "2026-11-05T01:24:11.117Z",
   "noticias": [
     {
-      "titulo": "Se acabó la fiesta con la plata del Sena!’: Presidente denunció presuntas irregularidades",
+      "titulo": "‘¡Se acabó la fiesta con la plata del Sena!’: Presidente denunció presuntas irregularidades",
       "fuente": "El Frente",
-      "url": "https://elfrente.com.co/se-acabo-la-fiesta-con-la-plata-del-sena-presidente-denuncio-presuntas-irregularidades/",
-      "fecha": "2026-10-27T13:06:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTdCRU9SeHV3LUJ0WENSRVNJWVJnSG5YdHI4R2ljXzBXdHlhSUphTE1sOU8xcm13ZDJHMjBwRUdRSTFFSDRldzktbWZYWkVTb2h0bkFsOVpLZVhQZDg3SFJlY05JSXQ3Yk1tMWZYR202RmNWaVZZWHhyWWlDdUNfV1JpWk1KZ2JqamZfX29yN2FTaW9xOHBoN0VSWGgzMlJvVXdaNW9yLTlqY1d4blpmUA?oc=5",
+      "fecha": "2026-10-27T20:07:33.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.gxLJPk70Z4YPHSw_cXjjcw&pid=News"
     },
     {
@@ -44,6 +44,13 @@
       "imagen": "http://www.bing.com/th?id=ONUT.tHeSYFQnSgsgXUHhFjed-Q&pid=News"
     },
     {
+      "titulo": "Presidente Abelardo De La Espriella denunció presuntas irregularidades en contratos del Sena en Córdoba y anunció auditorías en la entidad",
+      "fuente": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQV1lNR3dYWXphUnc1R3BiNlpwbXdXdGZsZ2FxOFJGY3JPdDFtbE9xa0pBWXl0ZlV1QzVFeG1kQ3V6UV9hdFVWaHVjZmhSNWFSeXVXcGhoVnJZWS12d01lSEdOUEQ5VWZOMDZTZmtmVVFZb2pNMlF2dFZDRWdscE81OV9nOTlSTzBfcUdqbkVXS0VXTEt6UVE1TXFtQkJNQ3kxaUhzQ1dJVElYdGtQUjNza1Z3T3h5cDZDclJLaUxVbHJ1dndGOVpWaHh1ZVp6WTVRdFliaXdPLTZERGd3NThQMC00NGZtQUVtRzI4dU9iSkV6N251bkQwS1l2SjZDdGI0c2hyR0xvdElCV1dfcXpwSlR0T3dKSzQyQ2VxWTdlaHNKT2puNHBEbVY2OUZnd9IBswJBVV95cUxNcGo4MWx6M0lBbnpEN0hxeUszcXJWMmxkYWxmT294YTVCQ1pOWkdfNW9KZnpRYTNYTEJKUkVWdkpBTEZSckw4dTIyYkFuTmpOWG5MTGNLb3daTmtpcFZaNjc4cVdZZHpKRFh2NkE0NlU1SXlJUkd2bEtHa0t1aWJWWUwxRS1NLUFlLXI0bW5HcWhKWG9Ic3BRcXh0anpjNUNqV2twLWc5MVlpd0R5ZlZSOElLekRudmJWdTB1MmtSS001TnpqT1NpRE55VGFwUno5N0ZSWVdrTEI2S0p1X3pWYXBwdURqZk9jMXZxdTFrTDE5dmVXakZnQ0QwcUNrdVlKdEFkNDRZOGNlWFRnWEdLaHJmOS1fLWFxLVRCZ2hYVFRNbXZPZEdFOXZ4TGpKQWdXdnZV?oc=5",
+      "fecha": "2026-10-26T07:53:18.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.kkJjKBPU2ZN_lDYDjqDeDQ&pid=News"
+    },
+    {
       "titulo": "Irregularidades Sena Córdoba: De La Espriella anuncia auditorías",
       "fuente": "Estrella Digital Colombia",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY3VjQzFlaVFaS2VmMkw1MDV2OUI2SkgxR1FiVjhlV0U3YW5TaHlmekZrdmtfSVBqMldNeTJyeE5WVk1GTGpsc0VCTTNhT2Y4d040eE9NdHJYRE5BWC1TRzRoa2dNaHh5eTdPVFMxX2hsSzVSZlY2QlZ5SU9TWnhrQU8zR0hrQQ?oc=5",
@@ -56,13 +63,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnRwUzVxQUpHeHhkbEpscC1mSXktQks2dWktMWJSc19ZQnBTUThtci1sN0M3RnhVckE3SEpneW1lLUdud3paVWFsV2lDQ29xT0NqUURUbldSaWlIQXp3YWdVZjdHTUF2YTBFb000QkQwbE5weUtSN0N4X3dPdnhnenpQNVREUTFxaklIcFpzdlhuUkRSS3JGQnp0TzlvT1pYSVJHQmFnN0FhU0tlQXNQY25aeUoyWTkyRUNrNVZUYTVYNEVUb0t4YUlPT0JOdEV6?oc=5",
       "fecha": "2026-10-26T05:46:32.000Z",
       "imagen": ""
-    },
-    {
-      "titulo": "Presidente Abelardo De La Espriella denunció presuntas irregularidades en contratos del Sena en Córdoba y anunció auditorías en la entidad",
-      "fuente": "El Tiempo on MSN",
-      "url": "https://www.msn.com/es-co/noticias/otras/presidente-abelardo-de-la-espriella-denunci%C3%B3-presuntas-irregularidades-en-contratos-del-sena-en-c%C3%B3rdoba-y-anunci%C3%B3-auditor%C3%ADas-en-la-entidad/ar-AA2g4TcK",
-      "fecha": "2026-10-26T00:53:18.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.nE654HKU6xu6bjEMtXWOwA&pid=News"
     },
     {
       "titulo": "Presidente De La Espriella denunció presuntas irregularidades en contratos del Sena en Córdoba y anunció auditorías",
@@ -149,6 +149,13 @@
       "imagen": ""
     },
     {
+      "titulo": "Abelardo De La Espriella anunció que llevará hallazgos del Sena a la Fiscalía: “Esto es una vergüenza”",
+      "fuente": "Semana",
+      "url": "https://www.semana.com/nacion/articulo/abelardo-de-la-espriella-anuncio-que-llevara-hallazgos-del-sena-a-la-fiscalia-esto-es-una-verguenza/202621/",
+      "fecha": "2026-10-25T13:13:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.uvv7FMXh85PAESjrtvB5Yg&pid=News"
+    },
+    {
       "titulo": "Presidente De la Espriella denuncia irregularidades en el Sena Córdoba: “No voy a permitir que se sigan robando a la institución”",
       "fuente": "El Heraldo",
       "url": "https://www.elheraldo.co/colombia/2026/10/25/presidente-de-la-espriella-denuncia-irregularidades-en-el-sena-cordoba-no-voy-a-permitir-que-se-sigan-robando-a-la-institucion/",
@@ -210,13 +217,6 @@
       "url": "https://www.pulzo.com/nacion/corrupcion-en-el-sena-cordoba-presidente-anuncia-auditorias-nacionales-y-nuevas-investigaciones-PP5340110A",
       "fecha": "2026-10-25T08:20:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.smOVvf-rHxKa7oSh-13tNw&pid=News"
-    },
-    {
-      "titulo": "Abelardo De La Espriella anunció que llevará hallazgos del Sena a la Fiscalía: “Esto es una vergüenza”",
-      "fuente": "Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNS1MR3lGN2dXWnF6WXRJWnB2OEpOU09oUmlZOWVyckJTbmYtLXYzb0dMUHZfb1cxSTh6RUhDY2ZrbnozUWI1TGdGOEN5cV9PekZVeDhkMVI2MVhOQ2w0anRXRDFOa2FqclU2WnoyVkF6VW9sZi05S1MwU3hpWDhTNzhnUW9Mck9pdnEtX2d5aTFzUy1CU1lQRXI0N1NQa0pIZlpMbzlUOVZ4N2p5MlRSV3N6bGZGT3NMMUx3LUthYUYyZWFmNk5lQTlmVV9TVnd0MEY0Wjhja01XUnhtLUNJ?oc=5",
-      "fecha": "2026-10-25T07:00:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.uvv7FMXh85PAESjrtvB5Yg&pid=News"
     },
     {
       "titulo": "De La Espriella denuncia presuntas irregularidades por contratos millonarios en el SENA de Córdoba",
