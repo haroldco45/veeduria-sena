@@ -1,12 +1,19 @@
 {
-  "actualizado": "2026-11-08T06:34:05.506Z",
+  "actualizado": "2026-11-08T14:11:03.734Z",
   "noticias": [
     {
       "titulo": "Contraloría investiga posibles irregularidades en el Sena: revisará contratos de los últimos tres años",
       "fuente": "Portafolio on MSN",
-      "url": "https://www.msn.com/es-co/noticias/other/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
+      "url": "https://www.msn.com/es-co/noticias/otras/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
       "fecha": "2026-11-06T12:50:25.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.Hv7dK-pM1bQkTlMnjMS67w&pid=News"
+    },
+    {
+      "titulo": "Sena ni DPS se escaparon de presunta corrupción de Petro",
+      "fuente": "El Meridiano",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMldoVG94ejJITnMyTUpOY3V6NUktZW1yU0ItSkxULWRPbl9nSzgxTjBtV2VDOVkzRnBCblBWTzdtMTFWVDg2WlNHRllEVnIzQXBiMmZoZklJWVJuOS1lVEN0MTZ5WmRnbE1nLVBIRDQzZHFXM3Q2ekxza2NaSHZrYVBGaHA0MXRZUWFKRVFibkFUN3Azc2RjanA4YzMtYXFT?oc=5",
+      "fecha": "2026-11-06T06:14:33.000Z",
+      "imagen": ""
     },
     {
       "titulo": "Contraloría adelanta investigaciones con policía judicial en el Sena por presuntas irregularidades durante el gobierno Petro",
@@ -20,7 +27,7 @@
       "fuente": "Caracol Radio",
       "url": "https://caracol.com.co/2026/11/05/contraloria-llega-al-sena-por-denuncias-de-presuntas-irregularidades-durante-el-gobierno-petro/",
       "fecha": "2026-11-05T15:01:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.cheiXhuJM7_X-dwQDAefWQ&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.M_kNTZrOd46SYqpXSjmU6g&pid=News"
     },
     {
       "titulo": "Contraloría comenzó investigación en el SENA por denuncia de presuntas irregularidades durante el gobierno anterior",
@@ -58,11 +65,11 @@
       "imagen": ""
     },
     {
-      "titulo": "Gobierno revela hallazgos de presunta corrupción en contratación del SENA Córdoba",
-      "fuente": "Caracol Radio",
-      "url": "https://caracol.com.co/2026/10/26/gobierno-revela-hallazgos-de-presunta-corrupcion-en-contratacion-del-sena-cordoba/",
-      "fecha": "2026-10-26T10:15:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.tHeSYFQnSgsgXUHhFjed-Q&pid=News"
+      "titulo": "“Las presuntas irregularidades heredadas del Gobierno anterior deben salir a la luz”: MinTrabajo sobre el SENA Córdoba",
+      "fuente": "LA RAZÓN.CO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnRwUzVxQUpHeHhkbEpscC1mSXktQks2dWktMWJSc19ZQnBTUThtci1sN0M3RnhVckE3SEpneW1lLUdud3paVWFsV2lDQ29xT0NqUURUbldSaWlIQXp3YWdVZjdHTUF2YTBFb000QkQwbE5weUtSN0N4X3dPdnhnenpQNVREUTFxaklIcFpzdlhuUkRSS3JGQnp0TzlvT1pYSVJHQmFnN0FhU0tlQXNQY25aeUoyWTkyRUNrNVZUYTVYNEVUb0t4YUlPT0JOdEV6?oc=5",
+      "fecha": "2026-10-26T12:51:25.000Z",
+      "imagen": ""
     },
     {
       "titulo": "Irregularidades Sena Córdoba: De La Espriella anuncia auditorías",
@@ -86,11 +93,18 @@
       "imagen": ""
     },
     {
-      "titulo": "“Las presuntas irregularidades heredadas del Gobierno anterior deben salir a la luz”: MinTrabajo sobre el SENA Córdoba",
-      "fuente": "LA RAZÓN.CO",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnRwUzVxQUpHeHhkbEpscC1mSXktQks2dWktMWJSc19ZQnBTUThtci1sN0M3RnhVckE3SEpneW1lLUdud3paVWFsV2lDQ29xT0NqUURUbldSaWlIQXp3YWdVZjdHTUF2YTBFb000QkQwbE5weUtSN0N4X3dPdnhnenpQNVREUTFxaklIcFpzdlhuUkRSS3JGQnp0TzlvT1pYSVJHQmFnN0FhU0tlQXNQY25aeUoyWTkyRUNrNVZUYTVYNEVUb0t4YUlPT0JOdEV6?oc=5",
-      "fecha": "2026-10-26T05:46:32.000Z",
-      "imagen": ""
+      "titulo": "Gobierno revela hallazgos de presunta corrupción en contratación del SENA Córdoba",
+      "fuente": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnJ3X25VVUNWeTJvOTB6d011RzliZ0NfdVZJUnVkSDhCUTVkeDMzY0NTanFzaFdJTTJpcnkyX0IxNkRaeGdnMm04V2kxbHNScHUzaEp5T0ZiZW9jTG5oN0g0ckVBTDdGSmtmejlZWS10czlWNlhBb1NjbXY4T1RBTm1Fc24tcUpWenNUWVRESGN3Ty1SclpIek9hbS1tRWo2UkpZRkFXaVlkZ1hrUFhZbzN5eVpzLTDSAcsBQVVfeXFMT1c3QUJiTHQtY0l2S3ViXzA4bHZDUTRxVVlGZm1SVlJuclVlLTlMVUpRVHd4V3piV213RktnMm10QUNCSnQ1TW5JUUdWbWpLeGtVczc0STk2MEFyU0VzWGVNM0lxb3NjV3dEbDRKOXNfWC1GNkhnUkVHQ2FEREpJTlJuLXcxUTVtNFhON3B0NUpsQjZXalRRSjMzYy1YOERVQllJbWIwM0wxREItUjFXcFI4WWJVc01hRVRvdGk4cUhsVkp4MUFYanpKQzQ?oc=5",
+      "fecha": "2026-10-26T07:00:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.tHeSYFQnSgsgXUHhFjed-Q&pid=News"
+    },
+    {
+      "titulo": "“Aquí no habrá intocables”: el presidente De La Espriella revela presuntas irregularidades por $1.698 millones en contratos del SENA en Córdoba",
+      "fuente": "La Linterna Azul",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRV8wendaWUliaUd1VkVhdmQyNFdLUWRjN1U2ZTV6RXJ3MURtNTZ3d3FzZDBHM2ZRbFlnSTBndXFaYkJBNlNqNVNlTHhSb2ZYcVE1WXlhRGtCTTc1NDlneEIwaHY0Zll5ZllWbHpZZVRUb1BGWDVyaGhvUmFkS3V3OE9nWkdmYUV0Q2VEU29vRWJfWlBkM3JjZGlvVDdGTHROZC1LSDZpZlhuX05ySW5uekY3RUFQX2NCeUFMY0NwLWRlc0FENUhUNnhSSjVoRG1FNXVPcmtzU3lMZ2hvVllDczFHbVNxNDNmNmE0b0x6SEwwdXllSEMtX0xvMDNMdU15bFpDM1RpQ0padTNZN0NDWEVkS29QS3N4?oc=5",
+      "fecha": "2026-10-26T05:20:26.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.y016N_1QxpV1CUoftJMGlg&pid=News"
     },
     {
       "titulo": "Presidente Abelardo De La Espriella denunció presuntas irregularidades en contratos del Sena en Córdoba y anunció auditorías en la entidad",
@@ -119,6 +133,13 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE5qekl5QUNrQVJJMGc3c1pPQW0yaUlON2NtS1lvRXRMRVhSdVdJcEtVOUZZUTFIM2ExLW05aGJIVFczNnpmTjc5MkxnOFpGZ1hiTVVZUldzRVlDS1ZyM1RGbm45MDBOamp6SVRsZDRDRDRHZzZpYWM4S0RTaFF0NVcwbWR2d2JucUN1dlFkUWYtSVk?oc=5",
       "fecha": "2026-10-25T22:15:52.000Z",
       "imagen": ""
+    },
+    {
+      "titulo": "Gobierno anuncia auditorías en todas las sedes del Sena tras detectar posibles irregularidades en Córdoba",
+      "fuente": "Pulzo",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdzBZaUN2WGlRS0pIX1F3LW5sOHNuOFhTSlZtWklGQXFQR0wya01jdUZOWTdES2RwZkdZblZRa1F5WjVMTEpHTFpoYW85b0ZjZWpYdXNKZ2M5dkJBSDRpNF83aTE4Y292cnMzYkxaUGQwYWFVV2ZaeDhFLWZwMFpxS3JSRWZoS09TVzFhMnl4eG92S0VOaWc1a0ZNLXoyS0lwenU2dlZtNTdtankwV3g3RWVpS3hIUGROdWkxc2hpellyWXVFY1FKd05ZX0VoUHR30gHWAUFVX3lxTE9LbmRVemthd0FLaHI3LWJUZ3k2Ri12eXBlQ25YeGJCNEp6QWRXVkxrWS1WajlXY3dzVUw2R1hhM1lVV2RKb1pYSExITUVCNF9oMGlSalZ2dVN4RkFTVl85WkhmVDB3MnJUQTY0bEJIblk5TGdfdFJxbDlmMmlENHZERWZKLUVjYVNmdmlHWU1jdHFZQnNacl9VVEwxcWVxMFV3WUZqeEEyZ0ljSlVudjJPS0VyajFKZDFDWmNuOG9LTjB1U3Z6blB4MWwwWVZJcXpXSFJLNmc?oc=5",
+      "fecha": "2026-10-25T20:20:44.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.smOVvf-rHxKa7oSh-13tNw&pid=News"
     },
     {
       "titulo": "De la Espriella denuncia irregularidades en el Sena Córdoba y anuncia revisión en Sucre y todo el país",
@@ -163,11 +184,18 @@
       "imagen": "http://www.bing.com/th?id=ONUT.zUMv4410oabtrtJEntGbeA&pid=News"
     },
     {
+      "titulo": "Abelardo De La Espriella anunció que llevará hallazgos del Sena a la Fiscalía: “Esto es una vergüenza”",
+      "fuente": "Semana",
+      "url": "https://www.semana.com/nacion/articulo/abelardo-de-la-espriella-anuncio-que-llevara-hallazgos-del-sena-a-la-fiscalia-esto-es-una-verguenza/202621/",
+      "fecha": "2026-10-25T13:13:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.uvv7FMXh85PAESjrtvB5Yg&pid=News"
+    },
+    {
       "titulo": "Presidente De la Espriella denuncia irregularidades en el Sena Córdoba: “No voy a permitir que se sigan robando a la institución”",
       "fuente": "El Heraldo",
       "url": "https://www.elheraldo.co/colombia/2026/10/25/presidente-de-la-espriella-denuncia-irregularidades-en-el-sena-cordoba-no-voy-a-permitir-que-se-sigan-robando-a-la-institucion/",
       "fecha": "2026-10-25T13:11:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.vw_cho5UAbFpzmcVaSV6zQ&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.DZ5MgLwRH_F10U6V4ZZsAQ&pid=News"
     },
     {
       "titulo": "De la Espriella anuncia revisión de toda la contratación del Sena a nivel nacional",
@@ -188,7 +216,7 @@
       "fuente": "Red+ Noticias",
       "url": "https://redmas.com.co/colombia/esto-es-una-verguenza-presidente-de-la-espriella-destapa-olla-podrida-en-el-sena-y-anuncia-decision-con-la-entidad-20261025-0010.html",
       "fecha": "2026-10-25T12:24:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.qgHxqm2h6mL_xtRhQNyCBw&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.g5rL6FIZSMa-h0ITiunM4w&pid=News"
     },
     {
       "titulo": "De La Espriella denunció presuntas irregularidades en contratos del Sena en Córdoba: “Esto es una vergüenza”",
@@ -209,7 +237,7 @@
       "fuente": "Diario La Libertad",
       "url": "https://diariolalibertad.com/2026/10/25/de-la-espriella-denuncia-presuntas-irregularidades-en-contratos-del-sena-por-1-698-millones-en-cordoba/",
       "fecha": "2026-10-25T10:07:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.YIGPG1ukAjx8kmaTJpVvaQ&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.1ukgjBqkALnL3BoJkUSnWQ&pid=News"
     },
     {
       "titulo": "De la Espriella denuncia presunta irregularidades en contratación del Sena Córdoba; habrá auditorías en todas las sedes del país",
@@ -226,32 +254,11 @@
       "imagen": "http://www.bing.com/th?id=ONUT.cW9cNsXJzaUWtNt5QQ8YcA&pid=News"
     },
     {
-      "titulo": "Gobierno anuncia auditorías en todas las sedes del Sena tras detectar posibles irregularidades en Córdoba",
-      "fuente": "Pulzo",
-      "url": "https://www.pulzo.com/nacion/corrupcion-en-el-sena-cordoba-presidente-anuncia-auditorias-nacionales-y-nuevas-investigaciones-PP5340110A",
-      "fecha": "2026-10-25T08:20:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.smOVvf-rHxKa7oSh-13tNw&pid=News"
-    },
-    {
-      "titulo": "Abelardo De La Espriella anunció que llevará hallazgos del Sena a la Fiscalía: “Esto es una vergüenza”",
-      "fuente": "Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNS1MR3lGN2dXWnF6WXRJWnB2OEpOU09oUmlZOWVyckJTbmYtLXYzb0dMUHZfb1cxSTh6RUhDY2ZrbnozUWI1TGdGOEN5cV9PekZVeDhkMVI2MVhOQ2w0anRXRDFOa2FqclU2WnoyVkF6VW9sZi05S1MwU3hpWDhTNzhnUW9Mck9pdnEtX2d5aTFzUy1CU1lQRXI0N1NQa0pIZlpMbzlUOVZ4N2p5MlRSV3N6bGZGT3NMMUx3LUthYUYyZWFmNk5lQTlmVV9TVnd0MEY0Wjhja01XUnhtLUNJ?oc=5",
-      "fecha": "2026-10-25T07:00:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.uvv7FMXh85PAESjrtvB5Yg&pid=News"
-    },
-    {
       "titulo": "De La Espriella denuncia presuntas irregularidades por contratos millonarios en el SENA de Córdoba",
       "fuente": "EL INFORMADOR - Santa Marta, Colombia",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbUI0cFZIcXRSeHRsb1hrOGd2Z2l4N19mWFJLYWd3TTVLWHp4OWVwYWszcUZ6ZlhTREY5VUk0aG5kcDFtd19iMEU0alo2bERUdVNVeHc5WjNidHE0VkIzbkNIcTJzVVdTWWl3aXRNaWREb2FmR0hpc0pWeW8tb0hyenJpU0s4RTBGTFFmc21YVno2TnlBa2xIbDRCdGJFUkU3dG1QQUNUZmNqTFBTc1NHQkVfQ0c2Sm1CcDZ6STdIREphV1RjQzhWbnMwazVDSlI1cXpPV1d6U2xBRFVfR3AwWlZwZEFUTWZqbXFqdVZ1Zzh1UUcxbnZCS2d2bw?oc=5",
       "fecha": "2026-10-25T07:00:00.000Z",
       "imagen": ""
-    },
-    {
-      "titulo": "\"Aquí no habrá intocables\": el presidente De La Espriella revela presuntas irregularidades por $1.698 millones en contratos del SENA en Córdoba",
-      "fuente": "IFM Noticias",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1l0cmw3LVljdW9saXlXOUxYYVdoV1BEYjhsUm5QNzhXQzRqdWhfVEp6NHQtbnlZNlJ1cDh0NXpEQjByNUdtRFlkRmZjaHpGMGFJZHIyUTNETk9rOWViNGpWdk1oalVlWGZCcnJTT3VocG1KMm1vQkFBd3VGU21EbktycG4yT3pjcTJ2SXlIZ19MT3V2TXotbllFTDlpWkE5aEpKSy1BZ21SV1MzWWMwbTREZTE?oc=5",
-      "fecha": "2026-10-25T07:00:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.y016N_1QxpV1CUoftJMGlg&pid=News"
     },
     {
       "titulo": "'Esto es una vergüenza': Presidente De La Espriella destapa olla podrida en el SENA y anuncia decisión con la entidad",
@@ -412,13 +419,6 @@
       "fuente": "W Radio",
       "url": "https://www.wradio.com.co/2025/01/20/contraloria-encontro-millonarias-irregularidades-en-contrato-del-sena-para-servicios-tic/",
       "fecha": "2025-01-20T00:58:00.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sena designa nueva directora regional en Córdoba tras polémica salida de su antecesora",
-      "fuente": "Caracol Radio",
-      "url": "https://caracol.com.co/2024/12/11/sena-designa-nueva-directora-regional-en-cordoba-tras-polemica-salida-de-su-antecesora/",
-      "fecha": "2024-12-10T23:42:00.000Z",
       "imagen": ""
     }
   ]
