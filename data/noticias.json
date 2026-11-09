@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T10:14:31.684Z",
+  "actualizado": "2026-11-09T20:59:06.071Z",
   "noticias": [
     {
       "titulo": "Contraloría investiga posibles irregularidades en el Sena: revisará contratos de los últimos tres años",
@@ -7,6 +7,13 @@
       "url": "https://www.msn.com/es-co/noticias/other/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
       "fecha": "2026-11-06T12:50:25.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.Hv7dK-pM1bQkTlMnjMS67w&pid=News"
+    },
+    {
+      "titulo": "SENA bajo investigación de la Contraloría por denuncias de presuntas irregularidades",
+      "fuente": "El País – Cali",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc0VKZWRWZFRWTjBqYkpZYlpWd0owWFI0S1NleXl6NngwSllwMHNXSndvZ3RZcE5FcjNvS1ZQWVBOVEJVcUwtZDNRZzd3ZktyRVNJRjBjRkZJMXBRcHhtRFhBUkgtZ214MHpDc2p4OU9FeTBfdUtaS2g0ZkZFQmFKNHpIeFAzeHlXYVRXOHQ3UWpHR1h0TDFPZGZHcHpmVUtiLUE4d19VaGJZU25nU0lLVGJaNU5WTjRkdms2N3hCa3kzSV9oNTZXVkZSbE50MW50eWZhOU85TDUtWmM2Q0MtdmY1YWFuOHVoNGQ0MzBUbnRVdw?oc=5",
+      "fecha": "2026-11-06T08:29:00.000Z",
+      "imagen": ""
     },
     {
       "titulo": "Sena ni DPS se escaparon de presunta corrupción de Petro",
@@ -79,13 +86,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.tHeSYFQnSgsgXUHhFjed-Q&pid=News"
     },
     {
-      "titulo": "Irregularidades Sena Córdoba: De La Espriella anuncia auditorías",
-      "fuente": "Estrella Digital Colombia",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY3VjQzFlaVFaS2VmMkw1MDV2OUI2SkgxR1FiVjhlV0U3YW5TaHlmekZrdmtfSVBqMldNeTJyeE5WVk1GTGpsc0VCTTNhT2Y4d040eE9NdHJYRE5BWC1TRzRoa2dNaHh5eTdPVFMxX2hsSzVSZlY2QlZ5SU9TWnhrQU8zR0hrQQ?oc=5",
-      "fecha": "2026-10-26T07:53:18.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.Ec-qm-ksNYp19AHSvE9YoQ&pid=News"
-    },
-    {
       "titulo": "Gobierno Nacional inicia intervenciones administrativas en el SENA. En Córdoba halla irregularidades contractuales",
       "fuente": "El Observatorio de la Universidad Colombiana",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWG96SXh5a0JVb19HUnJVQXFUaGwzZHFVQVpjQjBzS1pGODB0d0dJajlsdl9BMWxUTXFOOURzV1pWRzZ4OWdpTkl1SDVVSFhqRGRqcEdfd2lPNXV1ZWlaWGsyNFNYRnZXZzdaWkM5RE81SDJ5QzhHenBKQTYtaHVHcXVxUml1d2VkaTlIbjJoZUdzVkVCcXRpWlNyaF9tbFpPQ2gxV09IUnJULUtZNmsteGhmRksyTkc4aW1NeXdYRU1XanpteHlJdjFZclRMdWIwY3I3XzJNQUhjdWdmbmc?oc=5",
@@ -112,6 +112,13 @@
       "url": "https://www.msn.com/es-co/noticias/otras/presidente-abelardo-de-la-espriella-denunci%C3%B3-presuntas-irregularidades-en-contratos-del-sena-en-c%C3%B3rdoba-y-anunci%C3%B3-auditor%C3%ADas-en-la-entidad/ar-AA2g4TcK",
       "fecha": "2026-10-26T00:53:18.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.nE654HKU6xu6bjEMtXWOwA&pid=News"
+    },
+    {
+      "titulo": "Irregularidades Sena Córdoba: De La Espriella anuncia auditorías",
+      "fuente": "estrelladigital.com.co",
+      "url": "https://estrelladigital.com.co/politica/espriella-sena-cordoba-irregularidades/",
+      "fecha": "2026-10-26T00:52:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.Ec-qm-ksNYp19AHSvE9YoQ&pid=News"
     },
     {
       "titulo": "Presidente De La Espriella denunció presuntas irregularidades en contratos del Sena en Córdoba y anunció auditorías",
@@ -247,6 +254,13 @@
       "imagen": "http://www.bing.com/th?id=ONUT.cW9cNsXJzaUWtNt5QQ8YcA&pid=News"
     },
     {
+      "titulo": "“Esto es una vergüenza”: Presidente De La Espriella reacciona a fallas en obras del SENA en Córdoba",
+      "fuente": "Caracol Radio",
+      "url": "https://caracol.com.co/2026/10/25/esto-es-una-verguenza-presidente-de-la-espriella-reacciona-a-fallas-en-obras-del-sena-en-sucre/",
+      "fecha": "2026-10-25T08:33:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.kSUBYiMuVHoxVGyjpBpJDA&pid=News"
+    },
+    {
       "titulo": "Gobierno anuncia auditorías en todas las sedes del Sena tras detectar posibles irregularidades en Córdoba",
       "fuente": "Pulzo",
       "url": "https://www.pulzo.com/nacion/corrupcion-en-el-sena-cordoba-presidente-anuncia-auditorias-nacionales-y-nuevas-investigaciones-PP5340110A",
@@ -273,13 +287,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVjZIVFp2YzBiRks2SXlNTjE3VEZHMjdkbjBKczNRZHk4YU5XRkwyaFBmQXhRTFRxbkdSNmoyQTZJMlFVakdDUTBkMkxKX0ZzRHFCN2Ewb041d0REOG5xMzEtSVhpNTNBTG80blUtS2dZUWRfWkJHa2libkpNeFh4WmFWa1JhU2pteERsazhTbVUwV09FbDFzQUVtak5qQ3RfRjNMUERpeDltb1RJY093UFM2cEZ5Vy01WWFxUW1UQ29nRjNYZXc?oc=5",
       "fecha": "2026-10-25T07:00:00.000Z",
       "imagen": ""
-    },
-    {
-      "titulo": "“Esto es una vergüenza”: Presidente De La Espriella reacciona a fallas en obras del SENA en Córdoba",
-      "fuente": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclJBN09YZ0JfVTFSWHI3UGF3aHFORmNSNVotUy01dXRqSkt1QkpWcUQxVjBKNldRb2hrQkE5dEtkNVRnelZHM3NBcFlZaDJsQnV6VzlhMlZ2Qlh5dEkyTzI4ZUV5ZXB4U0Rad3RFUjlhMjQtaWJCYm9DNVVQVXBmMTVCbHZaQjh0Z0s0ZGdCQkc1VWV4alliUU40ajFFZGl6TVVzc1VQbnBScEdiN3N6cmFWUEZEaHdTRjVoMUVYZ0lwSDBwckN2QdIB3AFBVV95cUxPZkdObDA0cThLVnN0dXM2ZHZzUXMtVUxlU2ZZSmNpQ18xUExMamtYWFY5MzF5bEw2bF9HeG40MEZ1NjktQ3BOS3l6V1NFRWFRZFVldGRiNWRYX0lGQ2FrdDIyMms1eTRJSHFVc05rY0xVZUlVbklWX0VrcmtHRXZYMUFfOEl3VXZRNmpBQlRHd2JUSTBiSEg3N21JQ1JiUGxMYkp0VHViNGNRbzBCUFNncURBak4tOHdfb1J6X1FMT0ZHeURJOGI1U2o0VVNZOUxWOVlLSHdpZS1IRmts?oc=5",
-      "fecha": "2026-10-25T07:00:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.kSUBYiMuVHoxVGyjpBpJDA&pid=News"
     },
     {
       "titulo": "SENA Regional Sucre inauguró obras de infraestructura en la sede El Palomar, en Majagual",
@@ -412,13 +419,6 @@
       "fuente": "Noticias",
       "url": "https://www.noticiasrcn.com/colombia/detectan-irregularidades-por-47-mil-millones-en-contratos-y-fondos-del-sena-843961",
       "fecha": "2025-01-21T03:45:00.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "Contraloría encontró millonarias irregularidades en contrato del Sena para servicios TIC",
-      "fuente": "W Radio",
-      "url": "https://www.wradio.com.co/2025/01/20/contraloria-encontro-millonarias-irregularidades-en-contrato-del-sena-para-servicios-tic/",
-      "fecha": "2025-01-20T00:58:00.000Z",
       "imagen": ""
     }
   ]
