@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-11-10T03:26:37.599Z",
+  "actualizado": "2026-11-10T11:39:14.597Z",
   "noticias": [
+    {
+      "titulo": "SENA Córdoba escucha a la ciudadanía para definir prioridades de formación en 2027",
+      "fuente": "SENA",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2tTb0dRcXhDNDhvd08zdXg5QWpYQk5oeXRmQ0lOLXp6WUh4Slp0TGRCeERRdVJuSEdBY2dMYThBRlR4Y0VGc0QzTTg0aDdKdERHdWJSSU5aOUcxTUZpTG94Q1BnbjRYTVV3YU04SUkzZjNyR0N2eDA5TmNEdjBSMXVhVnVJYVhwN0ZiVGJRQUhKV0xIQW81N3BIaGJxWFRnMDFHMEZXamdmQ3RDRzRCQjVmMlh3amVUYm9Sa08weGxhWXJzNkI1dm1B?oc=5",
+      "fecha": "2026-11-10T03:07:30.000Z",
+      "imagen": ""
+    },
     {
       "titulo": "SENA Regional Córdoba promueve el bienestar y las buenas relaciones en el entorno laboral",
       "fuente": "SENA",
@@ -412,13 +419,6 @@
       "fuente": "El Espectador",
       "url": "https://www.elespectador.com/educacion/aprendices-del-sena-cambios-en-el-contrato-tras-reforma-laboral/",
       "fecha": "2025-06-18T16:35:00.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "Denuncian presuntas irregularidades en contratos millonarios del Sena: Procuraduría lanza advertencias por inconsistencias en proceso licitatorio",
-      "fuente": "Semana",
-      "url": "https://www.semana.com/nacion/regionales/articulo/denuncian-presuntas-irregularidades-en-contratos-millonarios-del-sena-procuraduria-lanza-advertencias-por-inconsistencias-en-proceso-licitatorio/202540/",
-      "fecha": "2025-05-20T20:08:00.000Z",
       "imagen": ""
     }
   ]
