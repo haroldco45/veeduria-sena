@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-11-09T20:59:06.071Z",
+  "actualizado": "2026-11-10T03:26:37.599Z",
   "noticias": [
+    {
+      "titulo": "SENA Regional Córdoba promueve el bienestar y las buenas relaciones en el entorno laboral",
+      "fuente": "SENA",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVVZwUVp1Wll3T2NNMXVKXzNBQWVKODFPZlFNZTBJSWR3ZXpqZTB3dXg1UGJlUzQyM2VvaWJOS2t3ZkY5bVgyU09IbzVxMjdxaGxHZmctZ3BlZG9tNC1iLUFOalJnSllxbnMxVDhnNnJ3Z2pleTN6TDdjeHZRUEtDUFpQTUx1amcyUTBMSmN4UUpMZFhvNVYtQVBobVg4SWN0akQ1bFdzZzZWWXR5MnhPN3ktODJpSkhERkZ5d1hscUZYZUExbnlhTmw1dXJ3TENNZTZF?oc=5",
+      "fecha": "2026-11-10T02:07:45.000Z",
+      "imagen": ""
+    },
     {
       "titulo": "Contraloría investiga posibles irregularidades en el Sena: revisará contratos de los últimos tres años",
       "fuente": "Portafolio on MSN",
@@ -51,10 +58,10 @@
       "imagen": ""
     },
     {
-      "titulo": "‘¡Se acabó la fiesta con la plata del Sena!’: Presidente denunció presuntas irregularidades",
+      "titulo": "Se acabó la fiesta con la plata del Sena!’: Presidente denunció presuntas irregularidades",
       "fuente": "El Frente",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMTdCRU9SeHV3LUJ0WENSRVNJWVJnSG5YdHI4R2ljXzBXdHlhSUphTE1sOU8xcm13ZDJHMjBwRUdRSTFFSDRldzktbWZYWkVTb2h0bkFsOVpLZVhQZDg3SFJlY05JSXQ3Yk1tMWZYR202RmNWaVZZWHhyWWlDdUNfV1JpWk1KZ2JqamZfX29yN2FTaW9xOHBoN0VSWGgzMlJvVXdaNW9yLTlqY1d4blpmUA?oc=5",
-      "fecha": "2026-10-27T07:00:00.000Z",
+      "url": "https://elfrente.com.co/se-acabo-la-fiesta-con-la-plata-del-sena-presidente-denuncio-presuntas-irregularidades/",
+      "fecha": "2026-10-27T13:06:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.gxLJPk70Z4YPHSw_cXjjcw&pid=News"
     },
     {
@@ -412,13 +419,6 @@
       "fuente": "Semana",
       "url": "https://www.semana.com/nacion/regionales/articulo/denuncian-presuntas-irregularidades-en-contratos-millonarios-del-sena-procuraduria-lanza-advertencias-por-inconsistencias-en-proceso-licitatorio/202540/",
       "fecha": "2025-05-20T20:08:00.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "Detectan irregularidades por $47 mil millones en contratos y fondos del Sena: ¿qué pasó?",
-      "fuente": "Noticias",
-      "url": "https://www.noticiasrcn.com/colombia/detectan-irregularidades-por-47-mil-millones-en-contratos-y-fondos-del-sena-843961",
-      "fecha": "2025-01-21T03:45:00.000Z",
       "imagen": ""
     }
   ]
