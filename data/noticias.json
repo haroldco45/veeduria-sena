@@ -1,11 +1,18 @@
 {
-  "actualizado": "2026-11-11T15:32:25.446Z",
+  "actualizado": "2026-11-11T22:33:59.718Z",
   "noticias": [
     {
       "titulo": "Consejo de Estado suspende norma que prohibía el periodo de prueba en los contratos de aprendizaje del SENA",
       "fuente": "RTVC Noticias",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0ZRZFhsTEZHQ01YREtlM215MHlKTjNNeHF6NVZPUEMzNGN5VE4tcmZ1NnpoWlRaRkVOM0dZd09XUGx5cExWTzEtT1M2cmZLWlBBLUV3SkFMZ0lnbHRpVy1NZ1ZBalVrU2VxVlo1SVJNR0k1UUVHNnJlWlJRbXlUVHhsREt0X3BNelVWTVk3VWJBOW85enpnMXREUWh6VkVvOWg0RElmeWlJeUF3VHBMdQ?oc=5",
       "fecha": "2026-11-10T17:03:47.000Z",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Sena Sucre será sede de los XXVI Juegos Deportivos Zonales de funcionarios 2026",
+      "fuente": "ELHERALDO.CO",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnZDVHJqalh1bTlUMjk4WmVaX09IVUVkY0RnY0MtQ2hlZ2tuMTc2MEEtRVhaalVJXzJnYVAtVEc1TE9RVjhGRExLNW5zOWVYQXZnMFRud3J6aUJTNHNYNnFRV0tTTDU3WnVjR3V4cGpDNl9nLUhGd1d0OEJwUGxMSkVKZ1FYbm5vUEJRUUpTQXhhUGJGcS13V0g5WHNHOFctX3NzWlFvY0s1dkJFMG5CcHpMNkkyTmI4eWxvSFR2WGkzd21iY0dF?oc=5",
+      "fecha": "2026-11-10T15:25:53.000Z",
       "imagen": ""
     },
     {
@@ -39,7 +46,7 @@
     {
       "titulo": "Contraloría investiga posibles irregularidades en el Sena: revisará contratos de los últimos tres años",
       "fuente": "Portafolio on MSN",
-      "url": "https://www.msn.com/es-co/noticias/other/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
+      "url": "https://www.msn.com/es-co/noticias/otras/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
       "fecha": "2026-11-06T12:50:25.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.Hv7dK-pM1bQkTlMnjMS67w&pid=News"
     },
@@ -69,7 +76,7 @@
       "fuente": "Caracol Radio",
       "url": "https://caracol.com.co/2026/11/05/contraloria-llega-al-sena-por-denuncias-de-presuntas-irregularidades-durante-el-gobierno-petro/",
       "fecha": "2026-11-05T15:01:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.cheiXhuJM7_X-dwQDAefWQ&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.M_kNTZrOd46SYqpXSjmU6g&pid=News"
     },
     {
       "titulo": "Contraloría comenzó investigación en el SENA por denuncia de presuntas irregularidades durante el gobierno anterior",
@@ -412,13 +419,6 @@
       "fuente": "Caracol Radio",
       "url": "https://caracol.com.co/2025/12/10/lamentamos-que-se-sigan-presentando-contratos-irregulares-en-el-sena-sindesena/",
       "fecha": "2025-12-10T01:20:00.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sena alcanzó el 100% de la meta pactada en contratos de aprendizaje en 2025",
-      "fuente": "MSN",
-      "url": "https://www.msn.com/es-co/noticias/other/sena-alcanz%C3%B3-el-100-de-la-meta-pactada-en-contratos-de-aprendizaje-en-2025/ar-AA1RXOdX",
-      "fecha": "2025-12-08T13:56:00.000Z",
       "imagen": ""
     }
   ]
