@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12T12:24:29.042Z",
+  "actualizado": "2026-11-12T20:18:37.831Z",
   "noticias": [
     {
       "titulo": "Consejo de Estado suspende norma que prohibía el periodo de prueba en los contratos de aprendizaje del SENA",
@@ -51,6 +51,13 @@
       "imagen": "http://www.bing.com/th?id=ONUT.Hv7dK-pM1bQkTlMnjMS67w&pid=News"
     },
     {
+      "titulo": "Contraloría comenzó investigación en el SENA por denuncia de presuntas irregularidades durante el gobierno anterior",
+      "fuente": "El País",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc0VKZWRWZFRWTjBqYkpZYlpWd0owWFI0S1NleXl6NngwSllwMHNXSndvZ3RZcE5FcjNvS1ZQWVBOVEJVcUwtZDNRZzd3ZktyRVNJRjBjRkZJMXBRcHhtRFhBUkgtZ214MHpDc2p4OU9FeTBfdUtaS2g0ZkZFQmFKNHpIeFAzeHlXYVRXOHQ3UWpHR1h0TDFPZGZHcHpmVUtiLUE4d19VaGJZU25nU0lLVGJaNU5WTjRkdms2N3hCa3kzSV9oNTZXVkZSbE50MW50eWZhOU85TDUtWmM2Q0MtdmY1YWFuOHVoNGQ0MzBUbnRVd9IB9wFBVV95cUxQNEtsXzJJd1lwQWFqQUtpVmNSN2RkQkQySW44T3Q4VW1SMVVxa3puVnpIRFF6VjhpczBFNHczREIyYUFEbjJTa2VpM1FNZlFwTVVRUXBRVFJXZnE3RGNGekNGaUxaaTlJMjlkd1J1NjlSWjBhQnhmaEM4VENQcWJBd1VsYnVreUFzbUxBZEpHQkdaQWJHM2NJbV9vX2ZBeVktcVA4LUVjZWR1dUV6T1VZWE44LUVRWl85V3BjbURwOWZrdTNNZVMtcWNjOHhBSlFyamJFYlViMFRNOUdraVpYcm9qWHBZLVljYXhnSGliaHhwOU1ULUlR?oc=5",
+      "fecha": "2026-11-06T08:29:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.t3dFvHvi4-xVKSegG4RGRQ&pid=News"
+    },
+    {
       "titulo": "SENA bajo investigación de la Contraloría por denuncias de presuntas irregularidades",
       "fuente": "El País – Cali",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc0VKZWRWZFRWTjBqYkpZYlpWd0owWFI0S1NleXl6NngwSllwMHNXSndvZ3RZcE5FcjNvS1ZQWVBOVEJVcUwtZDNRZzd3ZktyRVNJRjBjRkZJMXBRcHhtRFhBUkgtZ214MHpDc2p4OU9FeTBfdUtaS2g0ZkZFQmFKNHpIeFAzeHlXYVRXOHQ3UWpHR1h0TDFPZGZHcHpmVUtiLUE4d19VaGJZU25nU0lLVGJaNU5WTjRkdms2N3hCa3kzSV9oNTZXVkZSbE50MW50eWZhOU85TDUtWmM2Q0MtdmY1YWFuOHVoNGQ0MzBUbnRVdw?oc=5",
@@ -79,11 +86,11 @@
       "imagen": "http://www.bing.com/th?id=ONUT.M_kNTZrOd46SYqpXSjmU6g&pid=News"
     },
     {
-      "titulo": "Contraloría comenzó investigación en el SENA por denuncia de presuntas irregularidades durante el gobierno anterior",
-      "fuente": "Diario El País",
-      "url": "https://www.elpais.com.co/politica/contraloria-comenzo-investigacion-en-el-sena-por-denuncia-de-presuntas-irregularidades-durante-el-gobierno-anterior-0512.html",
-      "fecha": "2026-11-05T13:32:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.t3dFvHvi4-xVKSegG4RGRQ&pid=News"
+      "titulo": "Cambios en aportes al Sena, Icbf y salud podrían frenar la contratación de técnicos y profesionales, alertaron las pequeñas empresas",
+      "fuente": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNX1lHNlc5MGRvZDVKRnJsZVhFazQ4eG9ZTzkwYmoyNy03aGlCNTZmUXN2eHl5UDU2YU93ZGJncDNzNXhaV1VWYjVVSzFmUkUwWXVhRzR2cGRwMU0xU2ZMOEw0RTd3QzU2cnZnLTlBZEhmY1pLVFBsUDhhZmZaN01SRGZPZGJ4V3ppTEFCV3F4cUw0QXpJVTRZdnpWMUpNN2hjVVUtLWxxRmZ5NmlfanhtYVY3Zld2YmN5NjE2NHBZR3NNY1Z5Ym95MHZRN3FkTk0wVnVxZUtKNUswUGRfNzJEa20tTjhSallEcng3VmN6NXI0RGtWblVRVGJvUUhkMTRZRE1tLXRR0gGgAkFVX3lxTE8xT0tpOVVXeDJLTktwejhtMWdmWkEyVmt2QUpSMTBSYmNlYjVONnpZRV9PaHNadzJJWnQ3U1VCZ2E1LThKSXB1NDBVMlRMUDdhREVLY1JibzhIUFRGU2NYY1NzeGw2MmJXeW5iNzZmdnZrUGhyLW5ubzdkdzRhbXBqdmlmX0ZsYmVRcDNHSS10QV9fckN3V29zc0JaY3AzQzZvQ1YyczBKUE11X2NsOGZpRC1HTTlKaTZ3Ml9JaXNydkxRdGNyNTUzM3Vyb05PT3owQkpxT2lud0RCZVR3Y2VCY3l2RElYU1kyc3htTDJYUkVpZnhtS0lwa3lCNXZ1OG9PR3pTSU5JZXlrZjh2UlU0TkhZWGlIRHl3cHlLaUJUbQ?oc=5",
+      "fecha": "2026-11-02T08:00:00.000Z",
+      "imagen": ""
     },
     {
       "titulo": "Director General del SENA, Fray Ricardo Torres advierte fallas en la ejecución de obras en Sucre y anuncia revisión y seguimiento",
@@ -412,13 +419,6 @@
       "fuente": "Yahoo Noticias en Español",
       "url": "https://es-us.noticias.yahoo.com/sena-entidad-contratos-firm%C3%B3-previo-162734474.html",
       "fecha": "2026-02-11T08:27:00.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "“Lamentamos que se sigan presentando contratos irregulares en el Sena”: Sindesena",
-      "fuente": "Caracol Radio",
-      "url": "https://caracol.com.co/2025/12/10/lamentamos-que-se-sigan-presentando-contratos-irregulares-en-el-sena-sindesena/",
-      "fecha": "2025-12-10T01:20:00.000Z",
       "imagen": ""
     }
   ]
