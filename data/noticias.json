@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T10:05:39.888Z",
+  "actualizado": "2026-11-14T16:41:37.419Z",
   "noticias": [
     {
       "titulo": "Consejo de Estado suspende norma que prohibía el periodo de prueba en los contratos de aprendizaje del SENA",
@@ -46,16 +46,9 @@
     {
       "titulo": "Contraloría investiga posibles irregularidades en el Sena: revisará contratos de los últimos tres años",
       "fuente": "Portafolio on MSN",
-      "url": "https://www.msn.com/es-co/noticias/otras/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
+      "url": "https://www.msn.com/es-co/noticias/other/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
       "fecha": "2026-11-06T12:50:25.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.Hv7dK-pM1bQkTlMnjMS67w&pid=News"
-    },
-    {
-      "titulo": "Contraloría comenzó investigación en el SENA por denuncia de presuntas irregularidades durante el gobierno anterior",
-      "fuente": "El País",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc0VKZWRWZFRWTjBqYkpZYlpWd0owWFI0S1NleXl6NngwSllwMHNXSndvZ3RZcE5FcjNvS1ZQWVBOVEJVcUwtZDNRZzd3ZktyRVNJRjBjRkZJMXBRcHhtRFhBUkgtZ214MHpDc2p4OU9FeTBfdUtaS2g0ZkZFQmFKNHpIeFAzeHlXYVRXOHQ3UWpHR1h0TDFPZGZHcHpmVUtiLUE4d19VaGJZU25nU0lLVGJaNU5WTjRkdms2N3hCa3kzSV9oNTZXVkZSbE50MW50eWZhOU85TDUtWmM2Q0MtdmY1YWFuOHVoNGQ0MzBUbnRVd9IB9wFBVV95cUxQNEtsXzJJd1lwQWFqQUtpVmNSN2RkQkQySW44T3Q4VW1SMVVxa3puVnpIRFF6VjhpczBFNHczREIyYUFEbjJTa2VpM1FNZlFwTVVRUXBRVFJXZnE3RGNGekNGaUxaaTlJMjlkd1J1NjlSWjBhQnhmaEM4VENQcWJBd1VsYnVreUFzbUxBZEpHQkdaQWJHM2NJbV9vX2ZBeVktcVA4LUVjZWR1dUV6T1VZWE44LUVRWl85V3BjbURwOWZrdTNNZVMtcWNjOHhBSlFyamJFYlViMFRNOUdraVpYcm9qWHBZLVljYXhnSGliaHhwOU1ULUlR?oc=5",
-      "fecha": "2026-11-06T08:29:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.t3dFvHvi4-xVKSegG4RGRQ&pid=News"
     },
     {
       "titulo": "SENA bajo investigación de la Contraloría por denuncias de presuntas irregularidades",
@@ -77,6 +70,13 @@
       "url": "https://caracol.com.co/2026/11/05/contraloria-llega-al-sena-por-denuncias-de-presuntas-irregularidades-durante-el-gobierno-petro/",
       "fecha": "2026-11-05T15:01:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.M_kNTZrOd46SYqpXSjmU6g&pid=News"
+    },
+    {
+      "titulo": "Contraloría comenzó investigación en el SENA por denuncia de presuntas irregularidades durante el gobierno anterior",
+      "fuente": "Diario El País",
+      "url": "https://www.elpais.com.co/politica/contraloria-comenzo-investigacion-en-el-sena-por-denuncia-de-presuntas-irregularidades-durante-el-gobierno-anterior-0512.html",
+      "fecha": "2026-11-05T13:32:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.t3dFvHvi4-xVKSegG4RGRQ&pid=News"
     },
     {
       "titulo": "Contraloría adelanta investigaciones con policía judicial en el Sena por presuntas irregularidades durante el gobierno Petro",
@@ -128,13 +128,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Gobierno revela hallazgos de presunta corrupción en contratación del SENA Córdoba",
-      "fuente": "Caracol Radio",
-      "url": "https://caracol.com.co/2026/10/26/gobierno-revela-hallazgos-de-presunta-corrupcion-en-contratacion-del-sena-cordoba/",
-      "fecha": "2026-10-26T10:15:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.tHeSYFQnSgsgXUHhFjed-Q&pid=News"
-    },
-    {
       "titulo": "Gobierno Nacional inicia intervenciones administrativas en el SENA. En Córdoba halla irregularidades contractuales",
       "fuente": "El Observatorio de la Universidad Colombiana",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWG96SXh5a0JVb19HUnJVQXFUaGwzZHFVQVpjQjBzS1pGODB0d0dJajlsdl9BMWxUTXFOOURzV1pWRzZ4OWdpTkl1SDVVSFhqRGRqcEdfd2lPNXV1ZWlaWGsyNFNYRnZXZzdaWkM5RE81SDJ5QzhHenBKQTYtaHVHcXVxUml1d2VkaTlIbjJoZUdzVkVCcXRpWlNyaF9tbFpPQ2gxV09IUnJULUtZNmsteGhmRksyTkc4aW1NeXdYRU1XanpteHlJdjFZclRMdWIwY3I3XzJNQUhjdWdmbmc?oc=5",
@@ -168,6 +161,13 @@
       "url": "https://estrelladigital.com.co/politica/espriella-sena-cordoba-irregularidades/",
       "fecha": "2026-10-26T00:52:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.Ec-qm-ksNYp19AHSvE9YoQ&pid=News"
+    },
+    {
+      "titulo": "Gobierno revela hallazgos de presunta corrupción en contratación del SENA Córdoba",
+      "fuente": "Caracol Radio",
+      "url": "https://caracol.com.co/2026/10/26/gobierno-revela-hallazgos-de-presunta-corrupcion-en-contratacion-del-sena-cordoba/",
+      "fecha": "2026-10-26T00:35:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.tHeSYFQnSgsgXUHhFjed-Q&pid=News"
     },
     {
       "titulo": "De La Espriella anunció que llevará hallazgos del Sena a la Fiscalía",
@@ -226,13 +226,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.zUMv4410oabtrtJEntGbeA&pid=News"
     },
     {
-      "titulo": "Abelardo De La Espriella anunció que llevará hallazgos del Sena a la Fiscalía: “Esto es una vergüenza”",
-      "fuente": "Semana",
-      "url": "https://www.semana.com/nacion/articulo/abelardo-de-la-espriella-anuncio-que-llevara-hallazgos-del-sena-a-la-fiscalia-esto-es-una-verguenza/202621/",
-      "fecha": "2026-10-25T13:13:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.uvv7FMXh85PAESjrtvB5Yg&pid=News"
-    },
-    {
       "titulo": "Presidente De la Espriella denuncia irregularidades en el Sena Córdoba: “No voy a permitir que se sigan robando a la institución”",
       "fuente": "El Heraldo",
       "url": "https://www.elheraldo.co/colombia/2026/10/25/presidente-de-la-espriella-denuncia-irregularidades-en-el-sena-cordoba-no-voy-a-permitir-que-se-sigan-robando-a-la-institucion/",
@@ -259,6 +252,13 @@
       "url": "https://redmas.com.co/colombia/esto-es-una-verguenza-presidente-de-la-espriella-destapa-olla-podrida-en-el-sena-y-anuncia-decision-con-la-entidad-20261025-0010.html",
       "fecha": "2026-10-25T12:24:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.g5rL6FIZSMa-h0ITiunM4w&pid=News"
+    },
+    {
+      "titulo": "Abelardo de la Espriella anunció que llevará hallazgos del Sena a la Fiscalía: “Esto es una vergüenza”",
+      "fuente": "MSN",
+      "url": "https://www.msn.com/es-co/noticias/other/abelardo-de-la-espriella-anunci%C3%B3-que-llevar%C3%A1-hallazgos-del-sena-a-la-fiscal%C3%ADa-esto-es-una-verg%C3%BCenza/ar-AA2g2r40",
+      "fecha": "2026-10-25T12:23:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.uvv7FMXh85PAESjrtvB5Yg&pid=News"
     },
     {
       "titulo": "De La Espriella denunció presuntas irregularidades en contratos del Sena en Córdoba: “Esto es una vergüenza”",
