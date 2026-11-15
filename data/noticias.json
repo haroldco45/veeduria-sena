@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T15:48:11.886Z",
+  "actualizado": "2026-11-15T20:55:17.751Z",
   "noticias": [
     {
       "titulo": "Consejo de Estado suspende norma que prohibía el periodo de prueba en los contratos de aprendizaje del SENA",
@@ -46,7 +46,7 @@
     {
       "titulo": "Contraloría investiga posibles irregularidades en el Sena: revisará contratos de los últimos tres años",
       "fuente": "Portafolio on MSN",
-      "url": "https://www.msn.com/es-co/noticias/other/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
+      "url": "https://www.msn.com/es-co/noticias/otras/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
       "fecha": "2026-11-06T12:50:25.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.Hv7dK-pM1bQkTlMnjMS67w&pid=News"
     },
@@ -128,13 +128,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Gobierno revela hallazgos de presunta corrupción en contratación del SENA Córdoba",
-      "fuente": "Caracol Radio",
-      "url": "https://caracol.com.co/2026/10/26/gobierno-revela-hallazgos-de-presunta-corrupcion-en-contratacion-del-sena-cordoba/",
-      "fecha": "2026-10-26T10:15:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.tHeSYFQnSgsgXUHhFjed-Q&pid=News"
-    },
-    {
       "titulo": "Gobierno Nacional inicia intervenciones administrativas en el SENA. En Córdoba halla irregularidades contractuales",
       "fuente": "El Observatorio de la Universidad Colombiana",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWG96SXh5a0JVb19HUnJVQXFUaGwzZHFVQVpjQjBzS1pGODB0d0dJajlsdl9BMWxUTXFOOURzV1pWRzZ4OWdpTkl1SDVVSFhqRGRqcEdfd2lPNXV1ZWlaWGsyNFNYRnZXZzdaWkM5RE81SDJ5QzhHenBKQTYtaHVHcXVxUml1d2VkaTlIbjJoZUdzVkVCcXRpWlNyaF9tbFpPQ2gxV09IUnJULUtZNmsteGhmRksyTkc4aW1NeXdYRU1XanpteHlJdjFZclRMdWIwY3I3XzJNQUhjdWdmbmc?oc=5",
@@ -168,6 +161,13 @@
       "url": "https://estrelladigital.com.co/politica/espriella-sena-cordoba-irregularidades/",
       "fecha": "2026-10-26T00:52:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.Ec-qm-ksNYp19AHSvE9YoQ&pid=News"
+    },
+    {
+      "titulo": "Gobierno revela hallazgos de presunta corrupción en contratación del SENA Córdoba",
+      "fuente": "Caracol Radio",
+      "url": "https://caracol.com.co/2026/10/26/gobierno-revela-hallazgos-de-presunta-corrupcion-en-contratacion-del-sena-cordoba/",
+      "fecha": "2026-10-26T00:35:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.tHeSYFQnSgsgXUHhFjed-Q&pid=News"
     },
     {
       "titulo": "De La Espriella anunció que llevará hallazgos del Sena a la Fiscalía",
