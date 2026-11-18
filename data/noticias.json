@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T19:42:18.182Z",
+  "actualizado": "2026-11-18T02:15:15.503Z",
   "noticias": [
     {
       "titulo": "Abelardo de la Espriella anunció proyecto para actualizar los programas del Sena al que llamaraá D.I.O.S.: “A lo mejor nos entutelan por esto”",
@@ -21,6 +21,13 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYV83akF5UnlEb05UOXhvSGZ4MFhRdnBhZWhDZXlSM0IwejJ6YTBMWi1OTW5VRnBPX2piTXdWbFBCd05uOWQ0dTU2dW9qUHlHWUR0UzRIRENhN1hRcnNsRmdrRjhCOGpyMUg3TFpLMFV1b2sxeXQ0NEwtbXp6OWhHVnM0ZWItRVJMSUVzYmU5aWx1ZDFOYUR1X1k5NDgwQ0V3TjJXek9yeDcwejdreDRUa3VITTdob1hSWkh5bG81d252XzJwNXVMaGpWRThoMHBlMUQwZGZSa1R1QQ?oc=5",
       "fecha": "2026-11-17T15:53:52.000Z",
       "imagen": ""
+    },
+    {
+      "titulo": "“Hay que limpiar el SENA”: Abelardo anuncia depuración por presunta corrupción",
+      "fuente": "HOY DIARIO DEL MAGDALENA",
+      "url": "https://hoydiariodelmagdalena.com.co/archivos/1314271/hay-que-limpiar-el-sena-abelardo-anuncia-depuracion-por-presunta-corrupcion",
+      "fecha": "2026-11-17T13:17:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.1zl5ryRhMrm_FRnQkNObug&pid=News"
     },
     {
       "titulo": "Consejo de Estado suspende norma que prohibía el periodo de prueba en los contratos de aprendizaje del SENA",
@@ -67,7 +74,7 @@
     {
       "titulo": "Contraloría investiga posibles irregularidades en el Sena: revisará contratos de los últimos tres años",
       "fuente": "Portafolio on MSN",
-      "url": "https://www.msn.com/es-co/noticias/otras/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
+      "url": "https://www.msn.com/es-co/noticias/other/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
       "fecha": "2026-11-06T12:50:25.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.Hv7dK-pM1bQkTlMnjMS67w&pid=News"
     },
@@ -394,6 +401,13 @@
       "imagen": "http://www.bing.com/th?id=ONUT.JFXKLHGv2NAyhfsukQkiHw&pid=News"
     },
     {
+      "titulo": "Director del Sena no aguantó más y ordenó que se publicaran sus denuncias de corrupción: “Vamos para la Fiscalía”",
+      "fuente": "Semana",
+      "url": "https://www.semana.com/politica/articulo/director-del-sena-no-aguanto-mas-y-ordeno-que-se-publicaran-sus-denuncias-de-corrupcion-vamos-para-la-fiscalia/202612/",
+      "fecha": "2026-10-10T04:20:00.000Z",
+      "imagen": ""
+    },
+    {
       "titulo": "Director nacional del SENA pide investigar presuntos cobros a contratistas en Boyacá",
       "fuente": "Caracol Radio",
       "url": "https://caracol.com.co/2026/10/09/director-nacional-del-sena-pide-investigar-presuntos-cobros-a-contratistas-en-boyaca/",
@@ -405,20 +419,6 @@
       "fuente": "El heraldo",
       "url": "https://www.elheraldo.co/sucre/2026/06/24/gloria-maria-arsanios-troncoso-la-nueva-directora-del-sena-en-sucre/",
       "fecha": "2026-06-24T09:22:00.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "Procuraduría inhabilitó a exedil de Bucaramanga por contratos con el Sena tras ser elegido",
-      "fuente": "BLU Radio",
-      "url": "https://www.bluradio.com/regiones/santanderes/procuraduria-inhabilito-a-exedil-de-bucaramanga-por-contratos-con-el-sena-tras-ser-elegido-rg10",
-      "fecha": "2026-04-08T06:39:00.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "Sena identificó suplantación digital durante licitación de millonario contrato de vigilancia y anunció medidas de control",
-      "fuente": "Infobae",
-      "url": "https://www.infobae.com/colombia/2026/03/25/sena-identifico-suplantacion-digital-durante-licitacion-de-millonario-contrato-de-vigilancia-y-anuncio-medidas-de-control/",
-      "fecha": "2026-03-24T17:26:00.000Z",
       "imagen": ""
     }
   ]
