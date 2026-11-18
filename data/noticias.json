@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-11-18T02:15:15.503Z",
+  "actualizado": "2026-11-18T10:33:36.801Z",
   "noticias": [
+    {
+      "titulo": "Gobierno liberará al Sena de la corrupción",
+      "fuente": "El Meridiano",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQjBCc2hoT1J4UTg0NHdIZy13dmI2bVBKWG9nbElhQ1pqX1hhcXFKZjJPcDZNMm01RVNyS0N6VldIQ2NFd1NXbmdFZlRFaVhEUmFxZVBMV0o0N0NuYXpoLTVBYV9HZnliT29pZ0NoeVVMUS1pd3d0R0RyZHEyc1g2ZTMxSXA5aVFsckxCZHV3?oc=5",
+      "fecha": "2026-11-18T06:01:33.000Z",
+      "imagen": ""
+    },
     {
       "titulo": "Abelardo de la Espriella anunció proyecto para actualizar los programas del Sena al que llamaraá D.I.O.S.: “A lo mejor nos entutelan por esto”",
       "fuente": "Infobae",
@@ -51,18 +58,18 @@
       "imagen": ""
     },
     {
-      "titulo": "SENA Córdoba escucha a la ciudadanía para definir prioridades de formación en 2027",
-      "fuente": "SENA",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2tTb0dRcXhDNDhvd08zdXg5QWpYQk5oeXRmQ0lOLXp6WUh4Slp0TGRCeERRdVJuSEdBY2dMYThBRlR4Y0VGc0QzTTg0aDdKdERHdWJSSU5aOUcxTUZpTG94Q1BnbjRYTVV3YU04SUkzZjNyR0N2eDA5TmNEdjBSMXVhVnVJYVhwN0ZiVGJRQUhKV0xIQW81N3BIaGJxWFRnMDFHMEZXamdmQ3RDRzRCQjVmMlh3amVUYm9Sa08weGxhWXJzNkI1dm1B?oc=5",
-      "fecha": "2026-11-10T03:07:30.000Z",
-      "imagen": ""
-    },
-    {
       "titulo": "Presidente De La Espriella denunció presuntas irregularidades en contratos del Sena",
       "fuente": "Diario del Sur",
       "url": "https://www.diariodelsur.com.co/noticias/presidente-de-la-espriella-denuncio-presuntas-irregularidades-en-contratos-del-sena",
       "fecha": "2026-11-10T02:05:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.J2BFadyqz0r7b_xQRA2q3Q&pid=News"
+    },
+    {
+      "titulo": "SENA Córdoba escucha a la ciudadanía para definir prioridades de formación en 2027",
+      "fuente": "SENA",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2tTb0dRcXhDNDhvd08zdXg5QWpYQk5oeXRmQ0lOLXp6WUh4Slp0TGRCeERRdVJuSEdBY2dMYThBRlR4Y0VGc0QzTTg0aDdKdERHdWJSSU5aOUcxTUZpTG94Q1BnbjRYTVV3YU04SUkzZjNyR0N2eDA5TmNEdjBSMXVhVnVJYVhwN0ZiVGJRQUhKV0xIQW81N3BIaGJxWFRnMDFHMEZXamdmQ3RDRzRCQjVmMlh3amVUYm9Sa08weGxhWXJzNkI1dm1B?oc=5",
+      "fecha": "2026-11-09T08:00:00.000Z",
+      "imagen": ""
     },
     {
       "titulo": "SENA Regional Córdoba promueve el bienestar y las buenas relaciones en el entorno laboral",
@@ -412,13 +419,6 @@
       "fuente": "Caracol Radio",
       "url": "https://caracol.com.co/2026/10/09/director-nacional-del-sena-pide-investigar-presuntos-cobros-a-contratistas-en-boyaca/",
       "fecha": "2026-10-09T11:43:00.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gloria María Arsanios Troncoso, la nueva directora del Sena en Sucre",
-      "fuente": "El heraldo",
-      "url": "https://www.elheraldo.co/sucre/2026/06/24/gloria-maria-arsanios-troncoso-la-nueva-directora-del-sena-en-sucre/",
-      "fecha": "2026-06-24T09:22:00.000Z",
       "imagen": ""
     }
   ]
