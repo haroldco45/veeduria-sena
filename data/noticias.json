@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-11-20T17:43:54.552Z",
+  "actualizado": "2026-11-20T23:51:26.989Z",
   "noticias": [
+    {
+      "titulo": "Procuraduría destituyó e inhabilitó por 12 años a un instructor del SENA en Bogotá por acoso sexual a dos aprendices",
+      "fuente": "IFM Noticias",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYW1MRFpSQ3N5VVNEOWdpS2VoS2lpNjd2QVZGY3dZOE1maU9KMFhjTWFyOGdUUmRGc0VvZzlka1VYSUYyQ2d1Ml9Gb1FySDFMZ1o3VnZBSHlRZjk5Umh2SmNuVVBfcjdoem43VGRvR1Q5X0hncF9qV2FYVjRVRlQ5b1huaXh4VmdRZGw1cU9yQ21hdkM5RWFqYlZObU9ZUFBsYXVvWDJVZUxlc2JqR3RnbGROMFY?oc=5",
+      "fecha": "2026-11-20T16:10:30.000Z",
+      "imagen": ""
+    },
     {
       "titulo": "Gobierno liberará al Sena de la corrupción",
       "fuente": "El Meridiano",
@@ -88,7 +95,7 @@
     {
       "titulo": "Contraloría investiga posibles irregularidades en el Sena: revisará contratos de los últimos tres años",
       "fuente": "Portafolio on MSN",
-      "url": "https://www.msn.com/es-co/noticias/other/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
+      "url": "https://www.msn.com/es-co/noticias/otras/contralor%C3%ADa-investiga-posibles-irregularidades-en-el-sena-revisar%C3%A1-contratos-de-los-%C3%BAltimos-tres-a%C3%B1os/ar-AA2gUbX4",
       "fecha": "2026-11-06T12:50:25.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.Hv7dK-pM1bQkTlMnjMS67w&pid=News"
     },
@@ -413,13 +420,6 @@
       "url": "https://www.hoydiariodelmagdalena.com.co/archivos/1311574/director-del-sena-denuncia-corrupcion-en-la-entidad",
       "fecha": "2026-10-18T14:50:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.JFXKLHGv2NAyhfsukQkiHw&pid=News"
-    },
-    {
-      "titulo": "Director del Sena no aguantó más y ordenó que se publicaran sus denuncias de corrupción: “Vamos para la Fiscalía”",
-      "fuente": "Semana",
-      "url": "https://www.semana.com/politica/articulo/director-del-sena-no-aguanto-mas-y-ordeno-que-se-publicaran-sus-denuncias-de-corrupcion-vamos-para-la-fiscalia/202612/",
-      "fecha": "2026-10-10T04:20:00.000Z",
-      "imagen": ""
     }
   ]
 }
