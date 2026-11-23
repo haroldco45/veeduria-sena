@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-11-23T03:00:09.340Z",
+  "actualizado": "2026-11-23T12:16:41.525Z",
   "noticias": [
+    {
+      "titulo": "Investigación del SENA viajó desde Nariño hasta el congreso científico mundial en España",
+      "fuente": "SENA",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaUY1ZkJtcGhFUmJ4WEpaZ3N3a2R3XzFTaUY5cy1EVmxOTWktQ3BldWh2UndCRC0xX0t3VzRzVVk0cFBqd2ZPV21MZVFNTEkwVV9TV2M5a0tiRWRjRlJnZW9mbmRQMXN3MjRManpZUnFKWFUwWk1tY3NQV1puMUJ2UUIyaDZVTmZtYzd5VW9ITXJDb28xRmFuZkNRWGVpWWx5cWRraW9JNll2eXk2QmlRRjNwTFMyQUc3OXJQeUpLQUVCdHVFYk5lelN2VjdBMExpZHc?oc=5",
+      "fecha": "2026-11-23T00:19:38.000Z",
+      "imagen": ""
+    },
     {
       "titulo": "Procuraduría destituyó e inhabilitó por 12 años a un instructor del SENA en Bogotá por acoso sexual a dos aprendices",
       "fuente": "IFM Noticias",
@@ -30,13 +37,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Abelardo de la Espriella anunció proyecto para actualizar los programas del Sena al que llamaraá D.I.O.S.: “A lo mejor nos entutelan por esto”",
-      "fuente": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOejBJSzhNQjItZlNOY253R21JejdoWHNtSG5HaUJrN1VnNEQ5RHhRZURhOWNnaG1LcEtuazlIQ2NmR0FJUkxzTWZJbVZMM0lEWUwtZTlmd2pYNkYtb2FETF9qZUxzbGZHellRdnZPZUR4bDJ3LWY5djhXQ1RhZzFqX2FnTlBWUF9jWjQ1Q1QyQnBvM2RKSkZETXoxR01QWW4wSEl3Z1NEYUwxM3RjRDhVMktwSHRUSEY2eWU2bFVTZW1OTV8wSFpzdmxvQVFxUGVreGs4NEU3c2kxX05icGE3UHFRMnhQUElDR2pSaWFQdUFveDdJREdJYXFZUmdFWmRvVU10bWUtR0J4cEpN?oc=5",
-      "fecha": "2026-11-17T17:54:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.e5A065owdfVjvs-ORSAttg&pid=News"
-    },
-    {
       "titulo": "“Hay que limpiar el Sena de la corrupción porque se lo robaron estos cuatro años”: presidente ADLE",
       "fuente": "ELHERALDO.CO",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYV83akF5UnlEb05UOXhvSGZ4MFhRdnBhZWhDZXlSM0IwejJ6YTBMWi1OTW5VRnBPX2piTXdWbFBCd05uOWQ0dTU2dW9qUHlHWUR0UzRIRENhN1hRcnNsRmdrRjhCOGpyMUg3TFpLMFV1b2sxeXQ0NEwtbXp6OWhHVnM0ZWItRVJMSUVzYmU5aWx1ZDFOYUR1X1k5NDgwQ0V3TjJXek9yeDcwejdreDRUa3VITTdob1hSWkh5bG81d252XzJwNXVMaGpWRThoMHBlMUQwZGZSa1R1QQ?oc=5",
@@ -49,6 +49,13 @@
       "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-revelo-la-estrategia-de-modernizacion-del-sena-dios-a-lo-mejor-nos-entutelan-por-esto/202638/",
       "fecha": "2026-11-17T11:02:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.bSNoLrmwffBattWZ0G1muA&pid=News"
+    },
+    {
+      "titulo": "Abelardo de la Espriella anunció proyecto para actualizar los programas del Sena al que llamaraá D.I.O.S.: “A lo mejor nos entutelan por esto”",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/colombia/2026/11/17/abelardo-de-la-espriella-anuncio-proyecto-para-actualizar-los-programas-del-sena-al-que-llamaraa-dios-a-lo-mejor-nos-entutelan-por-esto/",
+      "fecha": "2026-11-17T09:54:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.e5A065owdfVjvs-ORSAttg&pid=News"
     },
     {
       "titulo": "El Sena Sucre será sede de los XXVI Juegos Deportivos Zonales de funcionarios 2026",
@@ -304,8 +311,8 @@
     },
     {
       "titulo": "De la Espriella anuncia revisión de toda la contratación del Sena a nivel nacional",
-      "fuente": "El Espectador on MSN",
-      "url": "https://www.msn.com/es-co/noticias/other/de-la-espriella-anuncia-revisión-de-toda-la-contratación-del-sena-a-nivel-nacional/ar-AA2g34SH",
+      "fuente": "MSN",
+      "url": "https://www.msn.com/es-co/noticias/other/de-la-espriella-anuncia-revisi%C3%B3n-de-toda-la-contrataci%C3%B3n-del-sena-a-nivel-nacional/ar-AA2g34SH",
       "fecha": "2026-10-25T12:49:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.B8TynAvJ2CoBPuZgaE_C8A&pid=News"
     },
@@ -413,13 +420,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYTR5Vk5hYkxJQ2p0Ym1PeER3X1hIMHJrTm1mNmM2Q0pzRTlsNHIyRjBacFpidHlScFEyTm8zaGNXanlJcWFPUjNQbzNnV3hHLXJabXduYWFXbEZLcTdwRy0zVmllNmVFdFJURDhQU3o5OHhxXzBqTlloQWlYaFFYb2xrTFlsMmphTUhQOWVaNEl0bjQ4M3FjeDhSN2hURXpaU183U1lDMkhsSnJNSWEzVUpvRkRVV3R0SG5pYjQ5WTAyWFhnM1J2UGRqb0FQYmhvcVk4SXhn?oc=5",
       "fecha": "2026-10-24T01:11:48.000Z",
       "imagen": ""
-    },
-    {
-      "titulo": "Ricardo Torres, director del Sena, advirtió sobre contratación y proveedores en Córdoba: “Se paga sin revisar”",
-      "fuente": "Semana",
-      "url": "https://www.semana.com/confidenciales/articulo/ricardo-torres-director-del-sena-advirtio-sobre-contratacion-y-proveedores-en-cordoba-se-paga-sin-revisar/202608/",
-      "fecha": "2026-10-22T17:00:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.aTwLMcrHtvPggkhGVhoKCA&pid=News"
     }
   ]
 }
