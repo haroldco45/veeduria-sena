@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-11-24T00:15:30.904Z",
+  "actualizado": "2026-11-24T10:19:00.397Z",
   "noticias": [
+    {
+      "titulo": "SENA Regional Córdoba articula estrategias con el Consejo Directivo Regional para impulsar la formación y el desarrollo del departamento",
+      "fuente": "SENA",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcHN1NHpFSGxsLWt0ZjVYQTBJUnV0aDNtcXhONDd0bVkxRXpRTFZsbnhHNVg2VnI0RFJ1YjJadWV4Z0tvQkpmWnN5aU42bHF6UElTYl9Ddm9tdTFQOWdiMGVlYUVEMU12MERVTlUtZWliVmJBV2JsSkJRbUN0bklyMTVIZ3ZBcVZmR0ZONk56d1BMQ1JvbHFsdFExU2lfNU9XV2JnWWk3M2tOR3JUeFNVZGVJdUpmdUNUZFlqSkxoaXNDSDRnYlVPM2JwZkxSS3ZucEZsekVqbTNSTVFSTmJPWTlyaG45RS1EQ2FsLWZvSHVuOXpXMk4xYmozTXlpMnZ4cW5wTHV5MjRlcFo2aFUtWE1n?oc=5",
+      "fecha": "2026-11-23T22:45:35.000Z",
+      "imagen": ""
+    },
     {
       "titulo": "Investigación del SENA viajó desde Nariño hasta el congreso científico mundial en España",
       "fuente": "SENA",
@@ -413,13 +420,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZmwtbVdmOVpndFBVQVFPTXVOWld3aFhqdjhFcHVJOUVfOHB6N0JMOVY3UHppSzJIM2RxWldoV05TM083YzZqS0Y0dDFtLU9LQkY4b0h5Z0RzcTZMcy0zekxqV3FnaFRVai00azZXSmwxdnRUUllLcGl2S3hPd19QQjkyWi1mWF9QRzYySEU0SVZUSXN3bTAzZ1JPSGhHZmlXcjNKNF9nUWNkdm5NMzFPQW5QSGFhTVlkTk9lNTVWSndZMHgzYXktdmo1cXVfY0pQ?oc=5",
       "fecha": "2026-10-25T07:00:00.000Z",
       "imagen": ""
-    },
-    {
-      "titulo": "Destapan presunta red de corrupción en contratos del Sena en Córdoba",
-      "fuente": "El Nuevo Siglo",
-      "url": "https://www.elnuevosiglo.com.co/nacion/destapan-presunta-red-de-corrupcion-en-contratos-del-sena-en-cordoba",
-      "fecha": "2026-10-24T17:00:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.C223izS5psGjAJSNA9iVBg&pid=News"
     }
   ]
 }
