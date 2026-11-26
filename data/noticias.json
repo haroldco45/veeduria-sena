@@ -1,18 +1,18 @@
 {
-  "actualizado": "2026-11-25T23:32:06.926Z",
+  "actualizado": "2026-11-26T07:42:20.023Z",
   "noticias": [
+    {
+      "titulo": "Investigación del SENA viajó desde Nariño hasta el congreso científico mundial en España",
+      "fuente": "SENA",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORU9IdVpJX3N6SUdlVVVIMW45RTBCSlRKR3VkVTgzSEh3Y3lnVzdPMS1PWHBVYTUxcDdXeXJFYktRWVZ2SjY2VnM3WW0yRlZwcUZRc2FuUFppOUcwWlNjbDZNN0VnTEdtR3N5Y193aVFEUnMwS180SjVELUxZTC1jRXlnWWFNcE5od0pQb0x2OTZLR2Q1RXpBZVJpeU1MLU02QlVYLWRqdnVfQVFRamttTU9sb1lMY1hoUHlIZWFleXU1aUZpWFRuWnFQTE5HTmgzNFFEdg?oc=5",
+      "fecha": "2026-11-25T22:36:27.000Z",
+      "imagen": ""
+    },
     {
       "titulo": "SENA Regional Córdoba articula estrategias con el Consejo Directivo Regional para impulsar la formación y el desarrollo del departamento",
       "fuente": "SENA",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcHN1NHpFSGxsLWt0ZjVYQTBJUnV0aDNtcXhONDd0bVkxRXpRTFZsbnhHNVg2VnI0RFJ1YjJadWV4Z0tvQkpmWnN5aU42bHF6UElTYl9Ddm9tdTFQOWdiMGVlYUVEMU12MERVTlUtZWliVmJBV2JsSkJRbUN0bklyMTVIZ3ZBcVZmR0ZONk56d1BMQ1JvbHFsdFExU2lfNU9XV2JnWWk3M2tOR3JUeFNVZGVJdUpmdUNUZFlqSkxoaXNDSDRnYlVPM2JwZkxSS3ZucEZsekVqbTNSTVFSTmJPWTlyaG45RS1EQ2FsLWZvSHVuOXpXMk4xYmozTXlpMnZ4cW5wTHV5MjRlcFo2aFUtWE1n?oc=5",
       "fecha": "2026-11-23T22:45:35.000Z",
-      "imagen": ""
-    },
-    {
-      "titulo": "Investigación del SENA viajó desde Nariño hasta el congreso científico mundial en España",
-      "fuente": "SENA",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaUY1ZkJtcGhFUmJ4WEpaZ3N3a2R3XzFTaUY5cy1EVmxOTWktQ3BldWh2UndCRC0xX0t3VzRzVVk0cFBqd2ZPV21MZVFNTEkwVV9TV2M5a0tiRWRjRlJnZW9mbmRQMXN3MjRManpZUnFKWFUwWk1tY3NQV1puMUJ2UUIyaDZVTmZtYzd5VW9ITXJDb28xRmFuZkNRWGVpWWx5cWRraW9JNll2eXk2QmlRRjNwTFMyQUc3OXJQeUpLQUVCdHVFYk5lelN2VjdBMExpZHc?oc=5",
-      "fecha": "2026-11-23T00:19:38.000Z",
       "imagen": ""
     },
     {
@@ -51,13 +51,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Abelardo de la Espriella anunció proyecto para actualizar los programas del Sena al que llamaraá D.I.O.S.: “A lo mejor nos entutelan por esto”",
-      "fuente": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOejBJSzhNQjItZlNOY253R21JejdoWHNtSG5HaUJrN1VnNEQ5RHhRZURhOWNnaG1LcEtuazlIQ2NmR0FJUkxzTWZJbVZMM0lEWUwtZTlmd2pYNkYtb2FETF9qZUxzbGZHellRdnZPZUR4bDJ3LWY5djhXQ1RhZzFqX2FnTlBWUF9jWjQ1Q1QyQnBvM2RKSkZETXoxR01QWW4wSEl3Z1NEYUwxM3RjRDhVMktwSHRUSEY2eWU2bFVTZW1OTV8wSFpzdmxvQVFxUGVreGs4NEU3c2kxX05icGE3UHFRMnhQUElDR2pSaWFQdUFveDdJREdJYXFZUmdFWmRvVU10bWUtR0J4cEpN0gGnAkFVX3lxTFBkcC1ZZ2Fpc0VGVnNEQXN3U0hsekxTN2FBNWhTUWZkdFpoNTdZYVNuSVdteVZvaVdpdzF1SWxkczhoenVFOHJYNlJBdHRILXB3cjZJQ2d4QjQ5TFdkT1MzQW1JWTFjMnRoaTdUVXNJYW8yMG5wWHR4eTRMZnRkWkZJb0c5RXFwNDg2X1Z0cnlvd1ZzU29qWFVRYnhpMmdjbkp0TkVNOXJDc0ZDc2w4OXhWRzgxaXVRZmJYZ3hhdV85TEc5VkZWMTZzSWZWM201MnlZUE5HMTdhdWg3NW5kQy1lVi1TV2RDOW4xUGU3WFRNTk1WOFhwbjRaOHFFRk9kQ2MzbHNHZ29tS214cW5EUV9zRnBXR0FVZW9EaEtjdjhXb2ZfQWRVUDQ?oc=5",
-      "fecha": "2026-11-17T17:54:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.e5A065owdfVjvs-ORSAttg&pid=News"
-    },
-    {
       "titulo": "“Hay que limpiar el Sena de la corrupción porque se lo robaron estos cuatro años”: presidente ADLE",
       "fuente": "ELHERALDO.CO",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYV83akF5UnlEb05UOXhvSGZ4MFhRdnBhZWhDZXlSM0IwejJ6YTBMWi1OTW5VRnBPX2piTXdWbFBCd05uOWQ0dTU2dW9qUHlHWUR0UzRIRENhN1hRcnNsRmdrRjhCOGpyMUg3TFpLMFV1b2sxeXQ0NEwtbXp6OWhHVnM0ZWItRVJMSUVzYmU5aWx1ZDFOYUR1X1k5NDgwQ0V3TjJXek9yeDcwejdreDRUa3VITTdob1hSWkh5bG81d252XzJwNXVMaGpWRThoMHBlMUQwZGZSa1R1QQ?oc=5",
@@ -70,6 +63,13 @@
       "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-revelo-la-estrategia-de-modernizacion-del-sena-dios-a-lo-mejor-nos-entutelan-por-esto/202638/",
       "fecha": "2026-11-17T11:02:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.bSNoLrmwffBattWZ0G1muA&pid=News"
+    },
+    {
+      "titulo": "Abelardo de la Espriella anunció proyecto para actualizar los programas del Sena al que llamaraá D.I.O.S.: “A lo mejor nos entutelan por esto”",
+      "fuente": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOejBJSzhNQjItZlNOY253R21JejdoWHNtSG5HaUJrN1VnNEQ5RHhRZURhOWNnaG1LcEtuazlIQ2NmR0FJUkxzTWZJbVZMM0lEWUwtZTlmd2pYNkYtb2FETF9qZUxzbGZHellRdnZPZUR4bDJ3LWY5djhXQ1RhZzFqX2FnTlBWUF9jWjQ1Q1QyQnBvM2RKSkZETXoxR01QWW4wSEl3Z1NEYUwxM3RjRDhVMktwSHRUSEY2eWU2bFVTZW1OTV8wSFpzdmxvQVFxUGVreGs4NEU3c2kxX05icGE3UHFRMnhQUElDR2pSaWFQdUFveDdJREdJYXFZUmdFWmRvVU10bWUtR0J4cEpN0gGnAkFVX3lxTFBkcC1ZZ2Fpc0VGVnNEQXN3U0hsekxTN2FBNWhTUWZkdFpoNTdZYVNuSVdteVZvaVdpdzF1SWxkczhoenVFOHJYNlJBdHRILXB3cjZJQ2d4QjQ5TFdkT1MzQW1JWTFjMnRoaTdUVXNJYW8yMG5wWHR4eTRMZnRkWkZJb0c5RXFwNDg2X1Z0cnlvd1ZzU29qWFVRYnhpMmdjbkp0TkVNOXJDc0ZDc2w4OXhWRzgxaXVRZmJYZ3hhdV85TEc5VkZWMTZzSWZWM201MnlZUE5HMTdhdWg3NW5kQy1lVi1TV2RDOW4xUGU3WFRNTk1WOFhwbjRaOHFFRk9kQ2MzbHNHZ29tS214cW5EUV9zRnBXR0FVZW9EaEtjdjhXb2ZfQWRVUDQ?oc=5",
+      "fecha": "2026-11-17T08:00:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.e5A065owdfVjvs-ORSAttg&pid=News"
     },
     {
       "titulo": "El Sena Sucre será sede de los XXVI Juegos Deportivos Zonales de funcionarios 2026",
